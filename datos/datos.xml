@@ -1,0 +1,5911 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE libros SYSTEM "libros.dtd">
+<libros>
+  <libro id="9917845796604201">
+    <id>9917845796604201</id>
+    <iep>21164726430004201</iep>
+    <titulo>A Byzantine monastic office, 1105 A. D. : Houghton Library, MS gr 3</titulo>
+    <autor>Anderson, Jeffrey C.</autor>
+    <lugar>Washington, D.C. :</lugar>
+    <editor>The Catholic University of America Press</editor>
+    <fecha>cop. 2016.</fecha>
+    <isbn>9780813228372; 0813228379</isbn>
+    <cdu>
+      <num>821.14'04</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.14 ANDERSON byzantin</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849999604201">
+    <id>9917849999604201</id>
+    <iep>21165407750004201</iep>
+    <titulo>A articulaçao da periferia : Macau e a Inquisiçao de Goa (c. 1582-1650)</titulo>
+    <autor>Lourenço, Miguel Rodrigues.</autor>
+    <lugar>Lisboa :</lugar>
+    <editor>Centro Científico e Cultural de Macau</editor>
+    <fecha>2016.</fecha>
+    <isbn>9789728586478; 9728586477</isbn>
+    <cdu>
+      <num>94(469)"15/16":272-745</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(4)"15/17" LOURENÇO articula</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845398704201">
+    <id>9917845398704201</id>
+    <iep>21164676990004201</iep>
+    <titulo>A black soldier's story : the narrative of Ricardo Batrell and the Cuban war of  independence</titulo>
+    <autor>Batrell, Ricardo</autor>
+    <lugar>Minneapolis ; London :</lugar>
+    <editor>University of Minnesota Press</editor>
+    <fecha>2010.</fecha>
+    <isbn>9780816650095; 0816650098</isbn>
+    <cdu>
+      <num>821.134.2(729.1)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.134.2 BATRELLR blacksol</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845895904201">
+    <id>9917845895904201</id>
+    <iep>21164736050004201</iep>
+    <titulo>A companion to the Reformation in Central Europe</titulo>
+    <autor></autor>
+    <lugar>Boston :</lugar>
+    <editor>Brill</editor>
+    <fecha>2015.</fecha>
+    <isbn>9789004255272; 9004255273</isbn>
+    <cdu/>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig></sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849396404201">
+    <id>9917849396404201</id>
+    <iep>21165346820004201</iep>
+    <titulo>A comuna judaica de Leiria das origens a expulsão : (introdução ao seu estudo histórico e documental)</titulo>
+    <autor>Gomes, Saul António</autor>
+    <lugar>Lisboa :</lugar>
+    <editor>Cátedra de estudos sefarditas "Alberto Benveniste" Universidade de Lisboa</editor>
+    <fecha>2010.</fecha>
+    <isbn>9789728610937; 9728610939</isbn>
+    <cdu>
+      <num>94(=411.16:469.41)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(=411.16) GOMESSAU comunaju</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917846499404201">
+    <id>9917846499404201</id>
+    <iep>21164877610004201</iep>
+    <titulo>Administrative Epistolography in the Formative Phase of the Neo-Babylonian Empire</titulo>
+    <autor></autor>
+    <lugar>Münster :</lugar>
+    <editor>Zaphon</editor>
+    <fecha>2018.</fecha>
+    <isbn>9783963270062; 3963270063</isbn>
+    <cdu/>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig></sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845794804201">
+    <id>9917845794804201</id>
+    <iep>21164725450004201</iep>
+    <titulo>Aenesidemus of Cnossus : testimonia</titulo>
+    <autor></autor>
+    <lugar>Cambridge :</lugar>
+    <editor>Cambridge University Press</editor>
+    <fecha>2014.</fecha>
+    <isbn>9780521190251; 0521190258</isbn>
+    <cdu>
+      <num>821.14 Enesidemo</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Sala de Griego Antiguo</col>
+        <sig>Aenesidemus-1</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917846999004201">
+    <id>9917846999004201</id>
+    <iep>21164977420004201</iep>
+    <titulo>Agatías, historias : guerras en Italia y Persia</titulo>
+    <autor>Agatías.</autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2018.</fecha>
+    <isbn>9788495905925; 8495905922</isbn>
+    <cdu>
+      <num>94(495:56)"05"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(4)"04/14" AGATIAS agatiash</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845896104201">
+    <id>9917845896104201</id>
+    <iep>21164736080004201</iep>
+    <titulo>Agnostos theos : il carteggio Spinoza-Oldenburg (1675-1676)</titulo>
+    <autor>Proietti, Omero</autor>
+    <lugar>Macerata :</lugar>
+    <editor>Quodlibet</editor>
+    <fecha>2006.</fecha>
+    <isbn>9788874621286; 8874621280</isbn>
+    <cdu/>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig></sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849397504201">
+    <id>9917849397504201</id>
+    <iep>21165347080004201</iep>
+    <titulo>Albalat</titulo>
+    <autor>Muelas, Federico</autor>
+    <lugar>Madrid :</lugar>
+    <editor>Editora Nacional</editor>
+    <fecha>D.L. 1961.</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>75 Albalat, Agustín</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Folletos</col>
+        <sig>FOL/384742</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845794504201">
+    <id>9917845794504201</id>
+    <iep>21164725350004201</iep>
+    <titulo>América : contacto e independencia</titulo>
+    <autor></autor>
+    <lugar>Madrid :</lugar>
+    <editor>Centro Nacional de Información Geográfica</editor>
+    <fecha>2008.</fecha>
+    <isbn>9788441608870; 8441608873</isbn>
+    <cdu>
+      <num>94(7/8)".../18"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Grandes formatos</col>
+        <sig>GRA/58106</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845794404201">
+    <id>9917845794404201</id>
+    <iep>21164725320004201</iep>
+    <titulo>América : la consolidación de las naciones</titulo>
+    <autor></autor>
+    <lugar>Madrid :</lugar>
+    <editor>Centro Nacional de Información Geográfica</editor>
+    <fecha>2013.</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>94(7/8)"18/19"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Grandes formatos</col>
+        <sig>GRA/58107</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844398604201">
+    <id>9917844398604201</id>
+    <iep>21164476860004201</iep>
+    <titulo>Anfitrite : poesía marina inédita de Neftalí Agrella</titulo>
+    <autor>Agrella, Neftali (1896-1957)</autor>
+    <lugar>[Antofagasta, Chile] :</lugar>
+    <editor>Universidad de Antofagasta</editor>
+    <fecha>[2017].</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>821.134.2(83)"19".09</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Folletos</col>
+        <sig>FOL/384716</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849799804201">
+    <id>9917849799804201</id>
+    <iep>21165417730004201</iep>
+    <titulo>Animali parlanti : letteratura, teatro, canzoni</titulo>
+    <autor></autor>
+    <lugar>Firenze :</lugar>
+    <editor>Sismel-Edizioni del Galluzzo</editor>
+    <fecha>2017.</fecha>
+    <isbn>9788884508041; 8884508045</isbn>
+    <cdu>
+      <num>82:[59:159.964].0</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>82.0 animalip</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845398804201">
+    <id>9917845398804201</id>
+    <iep>21164677020004201</iep>
+    <titulo>Antología bilingüe</titulo>
+    <autor>Kavafis, Konstantinos.</autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2012.</fecha>
+    <isbn>9788495905390; 8495905396</isbn>
+    <cdu>
+      <num>821.14'06-14"18"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.14 Kavafis KAVAFISK antologi</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849499604201">
+    <id>9917849499604201</id>
+    <iep>21165377690004201</iep>
+    <titulo>Antológica 1940-2005 : [Centro Cultural "Casa de Vacas", del 13 de abril al 1 de mayo de 2005]</titulo>
+    <autor>Galicia, Jose Luis (1930-)</autor>
+    <lugar>[S.l. :</lugar>
+    <editor>sn</editor>
+    <fecha>D.L. 2005]</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>76 Galicia, José Luis (083.824)</num>
+      <num>75 Galicia, José Luis (083.824)</num>
+      <num>74 Galicia, José Luis (083.824)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>7 Galicia GALICIAJ antologi</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917847399604201">
+    <id>9917847399604201</id>
+    <iep>21165047710004201</iep>
+    <titulo>Anuario</titulo>
+    <autor>Real Academia de la Historia (España)</autor>
+    <lugar>Madrid :</lugar>
+    <editor>Real Academia de la Historia</editor>
+    <fecha>2018.</fecha>
+    <isbn>8460010473; 9788460010470</isbn>
+    <cdu>
+      <num>06.055Real Academia de la Historia (Madrid)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>06 REALACAD anuario</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845798404201">
+    <id>9917845798404201</id>
+    <iep>21164727190004201</iep>
+    <titulo>Archaeology and state theory : subjects and objects of power</titulo>
+    <autor>Routledge, Bruce</autor>
+    <lugar>New York :</lugar>
+    <editor>Bloomsbury</editor>
+    <fecha>cop. 2014.</fecha>
+    <isbn>9780715636336; 0715636332</isbn>
+    <cdu>
+      <num>902:351.853</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>902 ROUTLEDG archaeol</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="990017272570204201">
+    <id>990017272570204201</id>
+    <iep>21143266630004201</iep>
+    <titulo>Arnedo, ciudad abierta</titulo>
+    <autor></autor>
+    <lugar>Logroño :</lugar>
+    <editor>Instituto de Estudios Riojanos</editor>
+    <fecha>2016.</fecha>
+    <isbn>9788499600918; 8499600913</isbn>
+    <cdu>
+      <num>94(460)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Monografías duplicadas</col>
+        <sig>DUP/78717</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="990017273860204201">
+    <id>990017273860204201</id>
+    <iep>21143149350004201</iep>
+    <titulo>Arte, cultura y poder en la Nueva España</titulo>
+    <autor></autor>
+    <lugar>New York :</lugar>
+    <editor>IDEA/IGAS</editor>
+    <fecha>2016</fecha>
+    <isbn>9781938795213; 1938795210</isbn>
+    <cdu>
+      <num>7.034(721/727)</num>
+      <num>821.134.2(72).09</num>
+      <num>94(72)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(72) artecult</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844396404201">
+    <id>9917844396404201</id>
+    <iep>21164476250004201</iep>
+    <titulo>Atlas of cities</titulo>
+    <autor></autor>
+    <lugar>Princeton ; Oxford :</lugar>
+    <editor>Princeton University Press</editor>
+    <fecha>cop. 2014.</fecha>
+    <isbn>9780691157818; 0691157812</isbn>
+    <cdu>
+      <num>911.375</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Obras de referencia</col>
+        <sig>(084.42)94 atl</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845397904201">
+    <id>9917845397904201</id>
+    <iep>21164676450004201</iep>
+    <titulo>Beastly natures : animals, humans, and the study of history</titulo>
+    <autor></autor>
+    <lugar>Charlottesville ; London :</lugar>
+    <editor>University of Virginia Press</editor>
+    <fecha>2010.</fecha>
+    <isbn>9780813929477; 0813929474</isbn>
+    <cdu>
+      <num>59:930.85</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>57/59(091) beastlyn</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844898104201">
+    <id>9917844898104201</id>
+    <iep>21164567340004201</iep>
+    <titulo>Bibliografía general del Instituto de Estudios Madrileños : 1951-2017</titulo>
+    <autor>Aparisi Laporta, Luis Miguel.</autor>
+    <lugar>Madrid :</lugar>
+    <editor>Instituto de Estudios Madrileños; Consejo Superior de Investigaciones Científicas</editor>
+    <fecha>2017.</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>016:061(460.27Madrid)Instituto de Estudios Madrileños</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Obras de referencia</col>
+        <sig>015/016 APA bib</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844397404201">
+    <id>9917844397404201</id>
+    <iep>21164476430004201</iep>
+    <titulo>Bizancio : teoría política y retórica : los "espejos de príncipe" bizantinos de tradición isocrática</titulo>
+    <autor>Soto A., Roberto Andrés</autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Griegos Bizantinos y Neohelénicos de la Universidad de Chile; Centro de Estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2013.</fecha>
+    <isbn>9788495905451; 8495905450</isbn>
+    <cdu>
+      <num>172.2(495)"03/14"</num>
+      <num>94(495)"03/14"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(4)"04/14" SOTOAROB bizancio</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844396704201">
+    <id>9917844396704201</id>
+    <iep>21164476340004201</iep>
+    <titulo>Bizancio y la Persia Sasánida : dos imperios frente a frente : una comparación militar y económica, 565-642</titulo>
+    <autor>Soto Chica, José (1971-)</autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2015.</fecha>
+    <isbn>9788495905611; 8495905612</isbn>
+    <cdu>
+      <num>94(495):355.1"0527/1081"</num>
+      <num>94(55):355.1"0224/0651"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94"04/14" SOTOCHIC bizancio</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845000204201">
+    <id>9917845000204201</id>
+    <iep>21164577810004201</iep>
+    <titulo>Bizancio y los sasánidas : de la lucha por el Oriente a las conquistas árabes (565-642)</titulo>
+    <autor>Soto Chica, José (1971-).</autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2012.</fecha>
+    <isbn>9788495905406; 849590540X</isbn>
+    <cdu>
+      <num>94(495)"05/06"</num>
+      <num>94(5/6=421.21)"05/06"</num>
+      <num>94(55)"0224/0651"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94"04/14" SOTOCHIC bizancio</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917846898604201">
+    <id>9917846898604201</id>
+    <iep>21164967250004201</iep>
+    <titulo>Bolivia, su historia.</titulo>
+    <autor></autor>
+    <lugar>[La Paz, Bolivia] :</lugar>
+    <editor>Coordinadora de Historia</editor>
+    <fecha>D.L. 2015.</fecha>
+    <isbn>9789997447579; 9997447573; 9789997447586; 9997447581; 9789997447593; 999744759X; 9789997447609; 9997447603; 9789997447616; 9997447611; 9789997447623; 999744762X; 9789997447630; 9997447638</isbn>
+    <cdu>
+      <num>94(84)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(84) bolivias V.1</sig>
+        <des>Vol. 1</des>
+      </ejem>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(84) bolivias V.2</sig>
+        <des>Vol. 2</des>
+      </ejem>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(84) bolivias V.3</sig>
+        <des>Vol. 3</des>
+      </ejem>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(84) bolivias V.4</sig>
+        <des>Vol. 4</des>
+      </ejem>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(84) bolivias V.5</sig>
+        <des>Vol. 5</des>
+      </ejem>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(84) bolivias V.6</sig>
+        <des>Vol. 6</des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845398204201">
+    <id>9917845398204201</id>
+    <iep>21164676650004201</iep>
+    <titulo>Bones of complexity : bioarchaeological case studies of social organization and skeletal biology</titulo>
+    <autor></autor>
+    <lugar>Gainesville [etc.] :</lugar>
+    <editor>University Press of Florida</editor>
+    <fecha>2017.</fecha>
+    <isbn>9780813062235; 0813062233</isbn>
+    <cdu>
+      <num>56:572.3</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>56 bonesofc</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845000104201">
+    <id>9917845000104201</id>
+    <iep>21164577820004201</iep>
+    <titulo>Breaking the WTO : how emerging powers disrupted the neoliberal project</titulo>
+    <autor>Hopewell, Kristen</autor>
+    <lugar>Stanford (California) :</lugar>
+    <editor>Stanford University Press</editor>
+    <fecha>2016.</fecha>
+    <isbn>9781503600591; 1503600599</isbn>
+    <cdu>
+      <num>339.9</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>33 HOPEWELL breaking</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845400204201">
+    <id>9917845400204201</id>
+    <iep>21164677880004201</iep>
+    <titulo>Bugs and the victorians</titulo>
+    <autor>Clark, J. F. M.</autor>
+    <lugar>New Haven ; London :</lugar>
+    <editor>Yale University Press</editor>
+    <fecha>cop.2009.</fecha>
+    <isbn>9780300150919; 0300150911</isbn>
+    <cdu>
+      <num>595.7(420)"19"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>57/59 CLARKJFM bugsandt</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845897804201">
+    <id>9917845897804201</id>
+    <iep>21164736410004201</iep>
+    <titulo>Building and dwelling : ethics for the city</titulo>
+    <autor>Sennett, Richard</autor>
+    <lugar>Milton Keynes :</lugar>
+    <editor>Allen Lane</editor>
+    <fecha>2018.</fecha>
+    <isbn>9780713998757; 071399875X</isbn>
+    <cdu>
+      <num>911.375:172</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>911.375 SENNETTR building</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845796304201">
+    <id>9917845796304201</id>
+    <iep>21164726270004201</iep>
+    <titulo>Caminos para el azúcar</titulo>
+    <autor>Zanetti Lecuona, Oscar</autor>
+    <lugar>La Habana :</lugar>
+    <editor>Boloña</editor>
+    <fecha>2017.</fecha>
+    <isbn>9789597126829; 9597126826</isbn>
+    <cdu>
+      <num>625.1(729.1)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>62 ZANETTIL caminosp</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917850999804201">
+    <id>9917850999804201</id>
+    <iep>21165667670004201</iep>
+    <titulo>Campo y ciudad : mundos en tensión, (siglos XII-XV) : XLIV Semana Internacional de Estudios Medievales Estella-Lizarra, 18-21 de julio de 2017 = Landa eta hiria : tentsioan dauden munduak, (XII-XV. mendeak) : XLIV Erdi aroko ikerlanen nazioarteko astea Estella-Lizarra, 2017ko uztailaren 18-21</titulo>
+    <autor>Semana Internacional de Estudios Medievales Estella-Lizarra) 2017. (44ª.</autor>
+    <lugar>[Pamplona, Navarra] :</lugar>
+    <editor>Gobierno de Navarra Departamento de Cultura Deporte y Juventud = Nafarroako Gobernua Kultura Kirol eta Gazteria Departamentua</editor>
+    <fecha>D.L. 2018.</fecha>
+    <isbn>9788423534821; 8423534820</isbn>
+    <cdu>
+      <num>94(4)"04/14"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(4)"04/14" SEMANAIN campoyci</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845797504201">
+    <id>9917845797504201</id>
+    <iep>21164726750004201</iep>
+    <titulo>Cannibalizing the colony : cinematic adaptations of colonial literature</titulo>
+    <autor>Gordon, Richard A.</autor>
+    <lugar>West Lafayette (Indiana) :</lugar>
+    <editor>Purdue University Press</editor>
+    <fecha>cop. 2009.</fecha>
+    <isbn>9781557535191; 1557535191</isbn>
+    <cdu>
+      <num>791.31:82</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>791.43 GORDONRI cannibal</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849800104201">
+    <id>9917849800104201</id>
+    <iep>21165417910004201</iep>
+    <titulo>Cartas inéditas de A. Moquin-Tandon a P. B. Webb : reconstruyendo una aventura editorial: "La Historia Natural de las Islas Canarias"</titulo>
+    <autor>Moquin-Tandon, Alfred.</autor>
+    <lugar>[Orotava (Tenerife)] :</lugar>
+    <editor>Fundación Canaria Orotava de Historia de la Ciencia</editor>
+    <fecha>D.L. 2018.</fecha>
+    <isbn>9788494844072; 8494844075</isbn>
+    <cdu>
+      <num>82-6 Moquin-Tandon, Alfred</num>
+      <num>82-6 Webb, Philip Barker</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.133.1 MOQUINTA cartasin</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849800004201">
+    <id>9917849800004201</id>
+    <iep>21165417870004201</iep>
+    <titulo>Cartas inéditas de S. Berthelot a P. B. Webb : reconstruyendo una aventura editorial: "La Historia Natural de las Islas Canarias"</titulo>
+    <autor>Berthelot, Sabin (1794-1880).</autor>
+    <lugar>[Orotava (Tenerife)] :</lugar>
+    <editor>Fundación Canaria Orotava de Historia de la Ciencia</editor>
+    <fecha>D.L. 2016.</fecha>
+    <isbn>9788460848271; 8460848272</isbn>
+    <cdu>
+      <num>82-6 Berthelot, Sabin</num>
+      <num>82-6 Webb, Philip Barker</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.133.1 BERTHELO cartasin</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="990017693690204201">
+    <id>990017693690204201</id>
+    <iep>21134919950004201</iep>
+    <titulo>Celeberrimi loci : studi sulle strategie della celebrazione nel mondo romano</titulo>
+    <autor>De Maria, Sandro</autor>
+    <lugar>Bologna :</lugar>
+    <editor>Bononia University Press</editor>
+    <fecha>2017.</fecha>
+    <isbn>9788869232312; 886923231X</isbn>
+    <cdu>
+      <num>725.94.032.7(450)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Grandes formatos</col>
+        <sig>GRA/58108</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845797704201">
+    <id>9917845797704201</id>
+    <iep>21164726860004201</iep>
+    <titulo>Chiefdoms : yesterday and today</titulo>
+    <autor></autor>
+    <lugar>New York :</lugar>
+    <editor>Eliot Werner Publications</editor>
+    <fecha>2017.</fecha>
+    <isbn>9780989824989; 0989824985</isbn>
+    <cdu>
+      <num>316.344.43:328.182</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>316 chiefdom</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845397204201">
+    <id>9917845397204201</id>
+    <iep>21164675890004201</iep>
+    <titulo>Cities for people</titulo>
+    <autor>Gehl, Jan.</autor>
+    <lugar>Washington [etc.] :</lugar>
+    <editor>Island Press</editor>
+    <fecha>cop. 2010.</fecha>
+    <isbn>9781597265737; 159726573X</isbn>
+    <cdu>
+      <num>911.375:349.3</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>911.375 GEHLJAN citiesfo</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844995804201">
+    <id>9917844995804201</id>
+    <iep>21164575770004201</iep>
+    <titulo>Climate and cultural change in prehistoric Europe and the Near East</titulo>
+    <autor></autor>
+    <lugar>New York :</lugar>
+    <editor>State University of New York</editor>
+    <fecha>cop. 2016.</fecha>
+    <isbn>9781438461823; 1438461828</isbn>
+    <cdu>
+      <num>551.583.7</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>330.15:504:551.58 climatea</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844399204201">
+    <id>9917844399204201</id>
+    <iep>21164477510004201</iep>
+    <titulo>Cognitive pluralism</titulo>
+    <autor>Horst, Steven</autor>
+    <lugar>Cambridge ; London :</lugar>
+    <editor>The MIT Press</editor>
+    <fecha>cop. 2016.</fecha>
+    <isbn>9780262034234; 0262034239</isbn>
+    <cdu>
+      <num>165.0</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>16 HORSTSTE cognitiv</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844397504201">
+    <id>9917844397504201</id>
+    <iep>21164476620004201</iep>
+    <titulo>Collecting the world : Hans Sloane and the origins of the British Museum</titulo>
+    <autor>Delbourgo, James</autor>
+    <lugar>Cambridge :</lugar>
+    <editor>The Belknap Press of Harvard University Press</editor>
+    <fecha>2017.</fecha>
+    <isbn>9780674737334; 0674737334</isbn>
+    <cdu>
+      <num>7:069(421.2)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>069 DELBOURG collecti</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849398404201">
+    <id>9917849398404201</id>
+    <iep>21165347380004201</iep>
+    <titulo>Colmeiro</titulo>
+    <autor>Milhau, Jean</autor>
+    <lugar>[Madrid] :</lugar>
+    <editor>Editora Nacional</editor>
+    <fecha>D.L. 1961.</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>75 Colmeiro, Manuel</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Folletos</col>
+        <sig>FOL/384739</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845799104201">
+    <id>9917845799104201</id>
+    <iep>21164727470004201</iep>
+    <titulo>Colonized bodies, worlds transformed : toward a global bioarchaeology of contact and colonialism</titulo>
+    <autor></autor>
+    <lugar>Gainesville [etc.] :</lugar>
+    <editor>University Press of Florida</editor>
+    <fecha>cop. 2017.</fecha>
+    <isbn>9780813060750; 0813060753</isbn>
+    <cdu>
+      <num>902:39(7/8)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>902 colonize</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845397004201">
+    <id>9917845397004201</id>
+    <iep>21164675820004201</iep>
+    <titulo>Complicity and moral accountability</titulo>
+    <autor>Mellema, Gregory.</autor>
+    <lugar>Notre Dame (Indiana) :</lugar>
+    <editor>University of Notre Dame Press</editor>
+    <fecha>2016.</fecha>
+    <isbn>9780268035393</isbn>
+    <cdu>
+      <num>172</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>17 MELLEMAG complici</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845299204201">
+    <id>9917845299204201</id>
+    <iep>21164637480004201</iep>
+    <titulo>Constantinopla, 550 años de su caída  = Konstantinoupole, 550 chrónia apó ten álose</titulo>
+    <autor></autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2006.</fecha>
+    <isbn>9788495905147; 8495905140; 9788495905154; 8495905159; 9788495905161; 8495905167; 9788495905178; 8495905175</isbn>
+    <cdu>
+      <num>94(560.118 E.)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(56) constant V.1</sig>
+        <des>Vol. 1</des>
+      </ejem>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(56) constant V.2</sig>
+        <des>Vol. 2</des>
+      </ejem>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(56) constant V.3</sig>
+        <des>Vol. 3</des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844398104201">
+    <id>9917844398104201</id>
+    <iep>21164476830004201</iep>
+    <titulo>Corporations and american democracy</titulo>
+    <autor></autor>
+    <lugar>Cambridge ; London :</lugar>
+    <editor>Harvard University Press</editor>
+    <fecha>2017.</fecha>
+    <isbn>9780674972285; 0674972287</isbn>
+    <cdu>
+      <num>334.788(73)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>33(7/8) corporat</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="990012071400204201">
+    <id>990012071400204201</id>
+    <iep>21120085060004201</iep>
+    <titulo>Corpus epistularum Ioannis Dantisci</titulo>
+    <autor>Dantyszek, Jan (1485-1548)</autor>
+    <lugar>Varsovia = Warsaw :</lugar>
+    <editor>Centre for Studies on the Classical Tradition in Poland and East-Central Europe etc = Institutum Hereditati Antiquorum in Polonia et Europa Media Orientalique Investigandae etc</editor>
+    <fecha>2004-.</fecha>
+    <isbn>8388857819; 9788388857812; 9788360183915; 8360183910; 9788376762302; 8376762303; 9788376761671; 8376761676; 9788360183588; 8360183589; 9788376760940; 8376760947; 9788360183687; 8360183686; 9788376762463; 837676246X; 8388857592; 9788388857591</isbn>
+    <cdu>
+      <num>94(4)"15"(093)</num>
+      <num>929 Dantyszek, Jan(044)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(4)"15/17" DANTYSZE corpusep V.5/3</sig>
+        <des>Part. 5, vol. 3</des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844396004201">
+    <id>9917844396004201</id>
+    <iep>21164476090004201</iep>
+    <titulo>Couples' transitions to parenthood : analysing gender and work in Europe</titulo>
+    <autor></autor>
+    <lugar>Cheltenham ; Northampton :</lugar>
+    <editor>Edward Elgar Publishing</editor>
+    <fecha>cop. 2016.</fecha>
+    <isbn>9781785365997; 1785365991</isbn>
+    <cdu>
+      <num>316.356.2(4)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>316.356.2 couplest</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845299904201">
+    <id>9917845299904201</id>
+    <iep>21164637830004201</iep>
+    <titulo>Cuarta dimensión</titulo>
+    <autor>Ritsos, Yannis</autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2015.</fecha>
+    <isbn>9788495905536; 8495905531</isbn>
+    <cdu>
+      <num>821.14-14"19"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.14 RITSOSYA cuartadi</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844398004201">
+    <id>9917844398004201</id>
+    <iep>21164476800004201</iep>
+    <titulo>Cuentos de amor y desamor</titulo>
+    <autor>Ferraro, Nicolás (1921-)</autor>
+    <lugar>[Antofagasta, Chile] :</lugar>
+    <editor>Instituto de Investigaciones Antropológicas Universidad de Antofagasta</editor>
+    <fecha>[2015].</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>821.134.2(83)-32"19</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.134.2"18/..." FERRAROP cuentosd</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917843794404201">
+    <id>9917843794404201</id>
+    <iep>21164366040004201</iep>
+    <titulo>Darwin y el darwinismo : desde el sur del sur</titulo>
+    <autor></autor>
+    <lugar>[Aranjuez, Madrid] :</lugar>
+    <editor>Ediciones Doce Calles</editor>
+    <fecha>D.L. 2018.</fecha>
+    <isbn>9788497442336; 8497442334</isbn>
+    <cdu>
+      <num>575.8 Darwin, Charles</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>5/6 Darwin.0 darwinye</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844899504201">
+    <id>9917844899504201</id>
+    <iep>21164567810004201</iep>
+    <titulo>Das Grobsteingrab von Westerkappeln-Seeste, Kreis Steinfurt</titulo>
+    <autor>Schierhold, Kerstin</autor>
+    <lugar>Münster :</lugar>
+    <editor>Altertumskommission für Westfalen</editor>
+    <fecha>2017.</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>903.5(430)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Folletos</col>
+        <sig>FOL/384719</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917851100104201">
+    <id>9917851100104201</id>
+    <iep>21165687920004201</iep>
+    <titulo>De dioses y bestias</titulo>
+    <autor>Julià, Jordi</autor>
+    <lugar>Palma [de Mallorca] :</lugar>
+    <editor>Universitat de les Illes Balears Servei de Publicacions i Intercanvi Científic</editor>
+    <fecha>2006.</fecha>
+    <isbn>8476329547; 9788476329542</isbn>
+    <cdu>
+      <num>821.134.1-14"19"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Folletos</col>
+        <sig>FOL/384763</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845795904201">
+    <id>9917845795904201</id>
+    <iep>21164726180004201</iep>
+    <titulo>Delia's tears : race, science, and photography in nineteenth-century America</titulo>
+    <autor>Rogers, Molly</autor>
+    <lugar>New Haven ; London :</lugar>
+    <editor>Yale University Press</editor>
+    <fecha>2010.</fecha>
+    <isbn>9780300115482; 0300115482</isbn>
+    <cdu>
+      <num>39:77</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>39(7/8) ROGERSMO deliaste</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917847600304201">
+    <id>9917847600304201</id>
+    <iep>21165037970004201</iep>
+    <titulo>Democracy and trade policy in developing countries</titulo>
+    <autor>Mukherjee, Bumba</autor>
+    <lugar>Chicago :</lugar>
+    <editor>The University of Chicago Press</editor>
+    <fecha>2016.</fecha>
+    <isbn>9780226358819; 022635881X</isbn>
+    <cdu>
+      <num>339.54(100-773)</num>
+      <num>330.34(100-773)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>33 MUKHERJE democrac</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844898304201">
+    <id>9917844898304201</id>
+    <iep>21164567450004201</iep>
+    <titulo>Deux archéologues au proche-orinet à la recherche del'homme : textes réunis à la memoire de Nassib Saliby et Emilio Olávarri</titulo>
+    <autor></autor>
+    <lugar>[El  Ferrol] :</lugar>
+    <editor>Sociedad Luso-Gallega de Estudios Mesopotámicos</editor>
+    <fecha>2018.</fecha>
+    <isbn>9788469799857; 8469799851</isbn>
+    <cdu>
+      <num>902(56)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Grandes formatos</col>
+        <sig>GRA/58104</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845794904201">
+    <id>9917845794904201</id>
+    <iep>21164725770004201</iep>
+    <titulo>Dialogues and debates from Late Antiquity to Late Byzantium</titulo>
+    <autor></autor>
+    <lugar>London ; New York :</lugar>
+    <editor>Routledge</editor>
+    <fecha>2017.</fecha>
+    <isbn>9781472489357; 1472489357</isbn>
+    <cdu>
+      <num>94".../03":82-83</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94".../03" dialogue</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844399104201">
+    <id>9917844399104201</id>
+    <iep>21164477430004201</iep>
+    <titulo>Dictionary of archaeological terms : english-spanish, spanish-english = Vocabulario de conceptos arqueológicos : inglés-español, español-inglés</titulo>
+    <autor>Salazar García, Domingo Carlos.</autor>
+    <lugar>Oxford :</lugar>
+    <editor>Archaeopress</editor>
+    <fecha>cop. 2011.</fecha>
+    <isbn>9781905739479; 1905739478</isbn>
+    <cdu>
+      <num>902(038)=111=134.2</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Obras de referencia</col>
+        <sig>(038)902/904 SAL dic</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844899904201">
+    <id>9917844899904201</id>
+    <iep>21164567870004201</iep>
+    <titulo>Die Bergbauwüstung Altenberg bei Müsen, Kreis Siegen-Wittgenstein</titulo>
+    <autor>Zeiler, Manuel</autor>
+    <lugar>Münster :</lugar>
+    <editor>Altertumskommission für Westfalen</editor>
+    <fecha>2018.</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>904(430)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Folletos</col>
+        <sig>FOL/384718</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844899204201">
+    <id>9917844899204201</id>
+    <iep>21164567570004201</iep>
+    <titulo>Die Düwelsteene bei Heiden, Kreis Borken</titulo>
+    <autor>Schierhold, Kerstin</autor>
+    <lugar>Münster :</lugar>
+    <editor>Altertumskommission für Westfalen</editor>
+    <fecha>2018.</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>903.5(430)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Folletos</col>
+        <sig>FOL/384720</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917846500104201">
+    <id>9917846500104201</id>
+    <iep>21164877880004201</iep>
+    <titulo>Discursos civilizadores : escritores, lectores y lecturas de textos en euskera (c.1767-1833)</titulo>
+    <autor>Ochoa de Eribe, Javier Esteban</autor>
+    <lugar>Madrid :</lugar>
+    <editor>Sílex</editor>
+    <fecha>D.L. 2018.</fecha>
+    <isbn>9788477375470; 847737547X</isbn>
+    <cdu>
+      <num>821.361-5"1767/1833"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.361 OCHOADEE discurso</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845798004201">
+    <id>9917845798004201</id>
+    <iep>21164727150004201</iep>
+    <titulo>Dying unneeded : the cultural context of the russian mortality crisis</titulo>
+    <autor>Parsons, Michelle A.</autor>
+    <lugar>Nashville :</lugar>
+    <editor>Vanderbilt University Press</editor>
+    <fecha>2014.</fecha>
+    <isbn>9780826519733; 0826519733</isbn>
+    <cdu>
+      <num>314.14(47+57)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>314 PARSONSM dyingunn</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849400104201">
+    <id>9917849400104201</id>
+    <iep>21165347880004201</iep>
+    <titulo>Economía, trabajo y sociedad : memoria sobre la situación socioeconómica y laboral: España 2017 (resumen ejecutivo)</titulo>
+    <autor>Consejo Económico y Social (España).</autor>
+    <lugar>Madrid :</lugar>
+    <editor>Consejo Económico y Social</editor>
+    <fecha>2018.</fecha>
+    <isbn>9788481883787; 8481883786</isbn>
+    <cdu>
+      <num>338(460)"2017"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Folletos</col>
+        <sig>FOL/384730</sig>
+        <des></des>
+      </ejem>
+      <ejem>
+        <mat>Active</mat>
+        <col>Mediateca</col>
+        <sig>MED/42629</sig>
+        <des>CD-ROM</des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849799704201">
+    <id>9917849799704201</id>
+    <iep>21165417650004201</iep>
+    <titulo>El "Colloquium elegans" de Bernal Díaz de Luco : tradición senequista, eclesiástica y picaresca</titulo>
+    <autor>Díaz de Luco, Juan Bernal.</autor>
+    <lugar>Hildesheim :</lugar>
+    <editor>Georg Olms Verlag</editor>
+    <fecha>2018.</fecha>
+    <isbn>9783487156637; 3487156636</isbn>
+    <cdu>
+      <num>821.124´06</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.124 DIAZDELU colloqui</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917846499804201">
+    <id>9917846499804201</id>
+    <iep>21164877790004201</iep>
+    <titulo>El barón de la Bruère y la prensa ilustrada de provincias : Diario de Valencia (1790-1791), Diario Histórico y Político de Sevilla (1792-1793) y Correo de Cádiz (1975-1800)</titulo>
+    <autor>Román López, María</autor>
+    <lugar>Madrid :</lugar>
+    <editor>Sociedad Española de Estudios del Siglo XVIII; Maia Ediciones</editor>
+    <fecha>D.L. 2018.</fecha>
+    <isbn>9788492724772; 8492724773</isbn>
+    <cdu>
+      <num>070(460)"17"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>070+659 ROMANLOP barondel</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844498604201">
+    <id>9917844498604201</id>
+    <iep>21164497370004201</iep>
+    <titulo>El cardenal Cisneros en Madrid</titulo>
+    <autor></autor>
+    <lugar>Madrid :</lugar>
+    <editor>Instituto de Estudios Madrileños</editor>
+    <fecha>2017.</fecha>
+    <isbn>9788494047336; 8494047337</isbn>
+    <cdu>
+      <num>94(460.27)"14/15"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Series editoriales</col>
+        <sig>gen_geo BIB EST 46</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917851099604201">
+    <id>9917851099604201</id>
+    <iep>21165687760004201</iep>
+    <titulo>El cartulario gótico de Cardeña : estudios</titulo>
+    <autor></autor>
+    <lugar>[Burgos] :</lugar>
+    <editor>Fundación Instituto Castellano y Leonés de la Lengua</editor>
+    <fecha>D.L. 2018.</fecha>
+    <isbn>9788492909223; 8492909226</isbn>
+    <cdu>
+      <num>091.14:94(460.182)"10"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>09 cartular</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845799004201">
+    <id>9917845799004201</id>
+    <iep>21164727270004201</iep>
+    <titulo>El dinamismo del ser trinitario en la antropología moral de Rosmini</titulo>
+    <autor>Buganza, Jacob (1982-)</autor>
+    <lugar>Barcelona :</lugar>
+    <editor>Instituto de Filosofía de la Universidad Veracruzana; Anthropos</editor>
+    <fecha>2017.</fecha>
+    <isbn>9788416421527; 8416421528</isbn>
+    <cdu>
+      <num>1 Rosmini, Antonio</num>
+      <num>141.319.8</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>1"18/..." Rosmini.0 BUGANZAJ dinamism</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849799104201">
+    <id>9917849799104201</id>
+    <iep>21165417090004201</iep>
+    <titulo>El duende de géminis</titulo>
+    <autor>Marrodán, Mario Angel.</autor>
+    <lugar>Madrid :</lugar>
+    <editor>Betania</editor>
+    <fecha>cop. 1994.</fecha>
+    <isbn>8480170255; 9788480170253</isbn>
+    <cdu>
+      <num>821.134.2-14"19"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Folletos</col>
+        <sig>FOL/384751</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917846998104201">
+    <id>9917846998104201</id>
+    <iep>21164976960004201</iep>
+    <titulo>El lenguaje de los ojos en el arte</titulo>
+    <autor>Ramos Rubio, José Antonio.</autor>
+    <lugar>Cáceres :</lugar>
+    <editor>Tau Editores</editor>
+    <fecha>D.L. 2018.</fecha>
+    <isbn>9788417132385; 8417132384</isbn>
+    <cdu>
+      <num>7.073-056.262</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>7 RAMOSRUB lenguaje</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845299804201">
+    <id>9917845299804201</id>
+    <iep>21164637790004201</iep>
+    <titulo>El mendigo</titulo>
+    <autor>Karkavitsas, Andreas</autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2007.</fecha>
+    <isbn>9788495905222; 8495905221</isbn>
+    <cdu>
+      <num>821.14'06-31"18"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.14 KARKAVIT mendigo</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917851099704201">
+    <id>9917851099704201</id>
+    <iep>21165687800004201</iep>
+    <titulo>El sol de Flandes : imaginarios bélicos del Siglo de Oro</titulo>
+    <autor>Flor, Fernando R. de la.</autor>
+    <lugar>[Salamanca] :</lugar>
+    <editor>Delirio</editor>
+    <fecha>2018.</fecha>
+    <isbn>9788415739234; 8415739230; 9788415739241; 8415739249; 9788415739258; 8415739257</isbn>
+    <cdu>
+      <num>94(460:493)"15/17":355.01(0:82)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(4)"15/17" FLORFERN soldefla V.1</sig>
+        <des>Vol. 1</des>
+      </ejem>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(4)"15/17" FLORFERN soldefla V.2</sig>
+        <des>Vol. 2</des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917846600304201">
+    <id>9917846600304201</id>
+    <iep>21164857990004201</iep>
+    <titulo>El teatro clásico español : ayer y hoy</titulo>
+    <autor></autor>
+    <lugar>Madrid :</lugar>
+    <editor>Visor Libros</editor>
+    <fecha>D.L. 2018.</fecha>
+    <isbn>9788498952018; 8498952018</isbn>
+    <cdu>
+      <num>821.134.2-2.09</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Series editoriales</col>
+        <sig>821.134.2 BIB FIL 201</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917843884104201">
+    <id>9917843884104201</id>
+    <iep>21164576740004201</iep>
+    <titulo>El tiempo final de los santuarios ibéricos en los procesos de impacto y consolidación del mundo romano : reunión científica, Murcia (España), 12-14 de noviembre, 2015</titulo>
+    <autor></autor>
+    <lugar>Madrid :</lugar>
+    <editor>Consejo Superior de Investigaciones Científicas</editor>
+    <fecha>2017.</fecha>
+    <isbn>9788400102609; 8400102606</isbn>
+    <cdu>
+      <num>902(460)</num>
+      <num>72.032.7(063)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Series editoriales</col>
+        <sig>902/904 ANE 79</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917847999304201">
+    <id>9917847999304201</id>
+    <iep>21165137660004201</iep>
+    <titulo>Eloqüències : (poesia visual)</titulo>
+    <autor>Prat, Toni</autor>
+    <lugar>Barcelona :</lugar>
+    <editor>Tabelaria edicions</editor>
+    <fecha>2008.</fecha>
+    <isbn>9788493561703; 8493561703</isbn>
+    <cdu>
+      <num>77.04</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>77 PRATTONI eloquenc</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917848000104201">
+    <id>9917848000104201</id>
+    <iep>21165137840004201</iep>
+    <titulo>Eloqüències altres : poesia visual. La diversió de la paradoxa... :  poesia visual</titulo>
+    <autor>Prat, Toni</autor>
+    <lugar>Navarrés (Valencia) :</lugar>
+    <editor>Ediciones Babilonia</editor>
+    <fecha>2016.</fecha>
+    <isbn>9788494790188; 8494790188</isbn>
+    <cdu>
+      <num>77.04</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>77 PRATTONI eloquenc</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849799204201">
+    <id>9917849799204201</id>
+    <iep>21165417140004201</iep>
+    <titulo>En el estudio de Juan Alcalde</titulo>
+    <autor>Rodríguez Díaz, Manuel (crítico de arte)</autor>
+    <lugar>[Madrid (Espronceda, 12)] :</lugar>
+    <editor>M Rodríguez</editor>
+    <fecha>D.L. 2001.</fecha>
+    <isbn>8488186118; 9788488186119</isbn>
+    <cdu>
+      <num>75 Alcalde, Juan</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Folletos</col>
+        <sig>FOL/384750</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917851099404201">
+    <id>9917851099404201</id>
+    <iep>21165687610004201</iep>
+    <titulo>Energía y pureza : hacia una juventud fuerte y pura</titulo>
+    <autor>Tóth, Tihamér</autor>
+    <lugar>Madrid :</lugar>
+    <editor>Sociedad de Educación "Atenas"</editor>
+    <fecha>imp. 1947.</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>27-4</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>SXX</col>
+        <sig>SXX/56562</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845800104201">
+    <id>9917845800104201</id>
+    <iep>21164727900004201</iep>
+    <titulo>English travel accounts on Cyprus (1960-2004)</titulo>
+    <autor>Demetriou, Eroulla.</autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2018.</fecha>
+    <isbn>9788495905932; 8495905930</isbn>
+    <cdu>
+      <num>821.111-992.09"19/20"</num>
+      <num>913(564.3)(0:82)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.111 DEMETRIO englisht</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845800204201">
+    <id>9917845800204201</id>
+    <iep>21164727970004201</iep>
+    <titulo>English travel literature on Cyprus (1878-1960)</titulo>
+    <autor>Demetriou, Eroulla.</autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas in association with the AG Leventis Foundation</editor>
+    <fecha>2004.</fecha>
+    <isbn>8495905086; 9788495905086</isbn>
+    <cdu>
+      <num>821.111-992.09"18/19"</num>
+      <num>913(564.3)(0:82)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.111 DEMETRIO englisht</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845895804201">
+    <id>9917845895804201</id>
+    <iep>21164736010004201</iep>
+    <titulo>Enlightenment underground : radical Germany, 1680-1720</titulo>
+    <autor>Mulsow, Martin</autor>
+    <lugar>Charlottesville :</lugar>
+    <editor>University of Virginia Press</editor>
+    <fecha>2015.</fecha>
+    <isbn>9780813938158; 0813938155</isbn>
+    <cdu/>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig></sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917851600104201">
+    <id>9917851600104201</id>
+    <iep>21165817730004201</iep>
+    <titulo>Epigram, art, and devotion in later Byzantium</titulo>
+    <autor>Drpic, Ivan</autor>
+    <lugar>Cambridge :</lugar>
+    <editor>Cambridge University Press</editor>
+    <fecha>2016.</fecha>
+    <isbn>9781107151512; 1107151511</isbn>
+    <cdu>
+      <num>7.033.2(495:56)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>7"04/14" DRPICIVA epigrama</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917836800104201">
+    <id>9917836800104201</id>
+    <iep>21162927400004201</iep>
+    <titulo>Esments d'orfebreria litúrgica en la documentació catalana (segles IX-XIV) : recull provisional</titulo>
+    <autor>Sanjosé i Llongueras, Lourdes de.</autor>
+    <lugar>Vic :</lugar>
+    <editor>Arxiu Biblioteca Episcopal de Vic</editor>
+    <fecha>2017.</fecha>
+    <isbn>9788469770979; 8469770977</isbn>
+    <cdu>
+      <num>739.1(460.23)(093)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>739 SANJOSEI esmentsd</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844897704201">
+    <id>9917844897704201</id>
+    <iep>21164567230004201</iep>
+    <titulo>Estudios sobre el sudeste europeo</titulo>
+    <autor></autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2017.</fecha>
+    <isbn>9788495905840; 8495905841</isbn>
+    <cdu>
+      <num>94(497)"18/..."</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(4)"18/..." estudios</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845397504201">
+    <id>9917845397504201</id>
+    <iep>21164676030004201</iep>
+    <titulo>Evagrius and his legacy</titulo>
+    <autor></autor>
+    <lugar>Notre Dame (Indiana) :</lugar>
+    <editor>University of Notre Dame Press</editor>
+    <fecha>cop. 2016.</fecha>
+    <isbn>9780268033293; 0268033293</isbn>
+    <cdu>
+      <num>821.14.0</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.14.0 evagrius</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845396904201">
+    <id>9917845396904201</id>
+    <iep>21164675790004201</iep>
+    <titulo>Evidential reasoning in archaeology</titulo>
+    <autor>Chapman, Robert.</autor>
+    <lugar>London [etc.] :</lugar>
+    <editor>Bloomsbury Academic</editor>
+    <fecha>2016.</fecha>
+    <isbn>9781472525277; 1472525272</isbn>
+    <cdu>
+      <num>902.3</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>902 CHAPMANR evidenti</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849998604201">
+    <id>9917849998604201</id>
+    <iep>21165407200004201</iep>
+    <titulo>Extracto de la sesión del día 3 de octubre de 1917</titulo>
+    <autor>Frankowski, Eugeniusz.</autor>
+    <lugar>2 p.,</lugar>
+    <editor></editor>
+    <fecha>26 cm.</fecha>
+    <isbn></isbn>
+    <cdu/>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Legados</col>
+        <sig>BC RM F/2838</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844398804201">
+    <id>9917844398804201</id>
+    <iep>21164477340004201</iep>
+    <titulo>Failing in the field : what we can learn when field research goes wrong</titulo>
+    <autor>Karlan, Dean</autor>
+    <lugar>Princeton ; Oxford :</lugar>
+    <editor>Princeton University Press</editor>
+    <fecha>cop. 2016.</fecha>
+    <isbn>9780691161891; 0691161895</isbn>
+    <cdu>
+      <num>303</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>1:303.1 KARLANDE failingi</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="990011360290204201">
+    <id>990011360290204201</id>
+    <iep>21143696020004201</iep>
+    <titulo>Federico Garcia Lorca en Grecia</titulo>
+    <autor></autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2006.</fecha>
+    <isbn>8495905132; 9788495905130</isbn>
+    <cdu>
+      <num>821.134.2 García Lorca, Federico 1.07</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.134.2"18/..." Ga.0 federico</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917846499204201">
+    <id>9917846499204201</id>
+    <iep>21164877540004201</iep>
+    <titulo>Filosofía y vida : el itinerario filosófico de José Vasconcelos</titulo>
+    <autor>Trejo Villalobos, Raúl</autor>
+    <lugar>Morelia (Michoacan) :</lugar>
+    <editor>jitanjáfora Mºrelia; Red Utopía</editor>
+    <fecha>2017.</fecha>
+    <isbn>9786078459681; 6078459686</isbn>
+    <cdu>
+      <num>1Vasconcelos, José</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.134.2"18/..." Va.0 TREJOVIL filosofi</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845897704201">
+    <id>9917845897704201</id>
+    <iep>21164736380004201</iep>
+    <titulo>Fleeing homophobia : sexual orientation, gender identity and asylum</titulo>
+    <autor></autor>
+    <lugar>Abingdon (Oxon) :</lugar>
+    <editor>Routledge</editor>
+    <fecha>2015.</fecha>
+    <isbn>9781138930131; 113893013X</isbn>
+    <cdu>
+      <num>316.647.82:305-055.3</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>305-055.2 fleeingh</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844897504201">
+    <id>9917844897504201</id>
+    <iep>21164567200004201</iep>
+    <titulo>Florilegio de obras poéticas</titulo>
+    <autor>Ritsos, Yannis.</autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2009.</fecha>
+    <isbn>9788495905314; 8495905310</isbn>
+    <cdu>
+      <num>821.14'06-14"19"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.14 RITSOSYA florileg</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849499804201">
+    <id>9917849499804201</id>
+    <iep>21165377870004201</iep>
+    <titulo>Fonta</titulo>
+    <autor>Sánchez Villanueva, Ricardo</autor>
+    <lugar>Málaga :</lugar>
+    <editor>Publicaciones de la Galería Benedito</editor>
+    <fecha>D.L. 1991.</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>75 Fonta(083.824)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Folletos</col>
+        <sig>FOL/384732</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845795004201">
+    <id>9917845795004201</id>
+    <iep>21164725820004201</iep>
+    <titulo>Foreshadowing the reformation : art and religion in the fifteenth-century burgundian Netherlands</titulo>
+    <autor>Herbert, Christopher</autor>
+    <lugar>London ; New York :</lugar>
+    <editor>Routledge</editor>
+    <fecha>2017.</fecha>
+    <isbn>9781138481350; 1138481351</isbn>
+    <cdu>
+      <num>7"15/17"(492/493-89)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>7"15/17" HERBERTC foreshad</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845396704201">
+    <id>9917845396704201</id>
+    <iep>21164675730004201</iep>
+    <titulo>Forging identities : the mobility of culture in Bronze Age Europe : report from a Marie Curie project 2009-2012 with concluding conference at Aarhus University, Moesgaard 2012 : volume 2</titulo>
+    <autor></autor>
+    <lugar>Oxford :</lugar>
+    <editor>British Archaeological Reports</editor>
+    <fecha>2015.</fecha>
+    <isbn>9781407314402; 1407314408</isbn>
+    <cdu>
+      <num>903(4)"637"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Series editoriales</col>
+        <sig>902/904 BAR 2772</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844998504201">
+    <id>9917844998504201</id>
+    <iep>21164577200004201</iep>
+    <titulo>From the shtetl to the lecture hall : jewish women and cultural exchange</titulo>
+    <autor>Hirsch, Luise</autor>
+    <lugar>Lanham [etc.] :</lugar>
+    <editor>University Press of America</editor>
+    <fecha>cop. 2013.</fecha>
+    <isbn>9780761859925; 0761859926</isbn>
+    <cdu>
+      <num>94-055.2:37</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94-055.2 HIRSCHLU fromthes</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849400204201">
+    <id>9917849400204201</id>
+    <iep>21165347920004201</iep>
+    <titulo>Frontes : le facciate nell'architettura e nell'urbanistica di Pompei e di Ercolano</titulo>
+    <autor>Helg, Riccardo</autor>
+    <lugar>Bologna :</lugar>
+    <editor>Bononia University Press</editor>
+    <fecha>2018.</fecha>
+    <isbn>9788869233050; 8869233057</isbn>
+    <cdu>
+      <num>72.012.6(37)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Grandes formatos</col>
+        <sig>GRA/58109</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917847400304201">
+    <id>9917847400304201</id>
+    <iep>21165047800004201</iep>
+    <titulo>Fuentes para la historia de la Patagonia Occidental en el período colonial : segunda parte : siglo XVIII</titulo>
+    <autor>Urbina Carrasco, María Ximena.</autor>
+    <lugar>Valparaíso, Chile :</lugar>
+    <editor>Ediciones Universitarias de Valparaíso Pontificia Universidad Católica de Valparaíso</editor>
+    <fecha>cop. 2018.</fecha>
+    <isbn>9789561707818; 9561707810</isbn>
+    <cdu>
+      <num>94(82/83)"17"(093)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(83) URBINACA fuentesp</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="990017796120204201">
+    <id>990017796120204201</id>
+    <iep>21138150550004201</iep>
+    <titulo>Garota : estudi antropològic, geolingüístic i etimològic</titulo>
+    <autor>Corcoll i Llobet, Antoni</autor>
+    <lugar>Barcelona :</lugar>
+    <editor>Institut d'Estudis Catalans Secció Filològica Museu Marítim de Barcelona</editor>
+    <fecha>2017.</fecha>
+    <isbn>9788499653723; 8499653723</isbn>
+    <cdu>
+      <num>811.134.1'282</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>811.134.1 CORCOLLI garotaes</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845398604201">
+    <id>9917845398604201</id>
+    <iep>21164676940004201</iep>
+    <titulo>Giorgos Seferis, 100 años de su nacimiento : actas del VIII Encuentro sobre Grecia, (Granada, 1-3 de diciembre de 2000)</titulo>
+    <autor>Encuentro sobre Grecia Granada) 2000. (8º.</autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2002.</fecha>
+    <isbn>8495905019; 9788495905017</isbn>
+    <cdu>
+      <num>821.14'06 Seferis, Giorgos 1.07(063)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.14 Seferis.0 ENCUENTR giorgoss</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849500104201">
+    <id>9917849500104201</id>
+    <iep>21165377960004201</iep>
+    <titulo>González de Lara</titulo>
+    <autor>Almenara Martínez, Vicente (1957-)</autor>
+    <lugar>Málaga :</lugar>
+    <editor>Publicaciones de la Galería Benedito</editor>
+    <fecha>D.L. 1993.</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>75 González de Lara, Javier (083.824)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Folletos</col>
+        <sig>FOL/384733</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917846900004201">
+    <id>9917846900004201</id>
+    <iep>21164967830004201</iep>
+    <titulo>Grecia ante la I Guerra Mundial = Η Ελλαδα εναντι του Α' Παγκοσμιου Πολεμου</titulo>
+    <autor>Agramonte Cortijo, Francisco (1880-1966).</autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2010.</fecha>
+    <isbn>9788495905345; 8495905345</isbn>
+    <cdu>
+      <num>94(495)"1914/18"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(4)"18/..." AGRAMONT greciaan</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917846599904201">
+    <id>9917846599904201</id>
+    <iep>21164857730004201</iep>
+    <titulo>Guarino Guarini e la chiesa dei padri Somaschi a Messina : i primi dieci anni di attività dell'architetto modenese</titulo>
+    <autor>Piazza, Stefano.</autor>
+    <lugar>Palermo :</lugar>
+    <editor>Caracol</editor>
+    <fecha>cop. 2016.</fecha>
+    <isbn>9788898546619; 8898546610</isbn>
+    <cdu>
+      <num>72.034.7(450)"16"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>7"15/17" PIAZZAST guarinog</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844996004201">
+    <id>9917844996004201</id>
+    <iep>21164575880004201</iep>
+    <titulo>Guide to biblical chronology</titulo>
+    <autor>Laato, Antti</autor>
+    <lugar>Sheffield :</lugar>
+    <editor>Sheffield Phoenix Press</editor>
+    <fecha>2015.</fecha>
+    <isbn>9781909697843; 1909697842</isbn>
+    <cdu>
+      <num>27-725</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>2 Biblia LAATOANT guidetob</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844397204201">
+    <id>9917844397204201</id>
+    <iep>21164476500004201</iep>
+    <titulo>Handbook on the globalisation of agriculture</titulo>
+    <autor></autor>
+    <lugar>Cheltenham ; Northampton :</lugar>
+    <editor>Edward Elgar Publishing</editor>
+    <fecha>2016.</fecha>
+    <isbn>9781786436535; 1786436531</isbn>
+    <cdu>
+      <num>338.43</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>338.43 handbook</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849397704201">
+    <id>9917849397704201</id>
+    <iep>21165347140004201</iep>
+    <titulo>Hartung</titulo>
+    <autor>Vergara, José.</autor>
+    <lugar>[Madrid] :</lugar>
+    <editor>Editora Nacional</editor>
+    <fecha>D.L. 1961.</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>75 Hartung, Hans</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Folletos</col>
+        <sig>FOL/384740</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844397804201">
+    <id>9917844397804201</id>
+    <iep>21164476740004201</iep>
+    <titulo>Heidegger &amp; the myth of a jewish world conspiracy</titulo>
+    <autor>Trawny, Peter</autor>
+    <lugar>Chicago ; London :</lugar>
+    <editor>The University of Chicago Press</editor>
+    <fecha>2014.</fecha>
+    <isbn>9780226303734; 022630373X</isbn>
+    <cdu>
+      <num>323.12(=411.16)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>1"18/..." Heidegger.0 TRAWNYPE heidegge</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845398904201">
+    <id>9917845398904201</id>
+    <iep>21164677190004201</iep>
+    <titulo>Hellenistic poetry : a selection</titulo>
+    <autor></autor>
+    <lugar>Ann Arbor :</lugar>
+    <editor>University of Michigan Press</editor>
+    <fecha>2017.</fecha>
+    <isbn>9780472053131; 0472053132</isbn>
+    <cdu>
+      <num>821.14-1</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Sala de Griego Antiguo</col>
+        <sig>Anthologia-98</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849399104201">
+    <id>9917849399104201</id>
+    <iep>21165347510004201</iep>
+    <titulo>Hernández Pijuan</titulo>
+    <autor>Santos Torroella, Rafael (1914-2002).</autor>
+    <lugar>[Madrid] :</lugar>
+    <editor>Editora Nacional</editor>
+    <fecha>D.L. 1961.</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>75 Hernández Pijuan, Juan</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Folletos</col>
+        <sig>FOL/384737</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845896404201">
+    <id>9917845896404201</id>
+    <iep>21164736170004201</iep>
+    <titulo>History of the Polish Reformation : and nine related documents</titulo>
+    <autor>Lubieniecki, Stanislaw</autor>
+    <lugar>Minneapolis :</lugar>
+    <editor>Fortress Press</editor>
+    <fecha>cop. 1995.</fecha>
+    <isbn>080067085X; 9780800670856</isbn>
+    <cdu>
+      <num>275(438)"15"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>27-9 LUBIENIE historyo</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844397604201">
+    <id>9917844397604201</id>
+    <iep>21164476710004201</iep>
+    <titulo>History, theory, text : historians and the linguistic turn</titulo>
+    <autor>Clark, Elizabeth A. (1938-). (Elizabeth Ann)</autor>
+    <lugar>Cambridge ; London :</lugar>
+    <editor>Harvard University Press</editor>
+    <fecha>2004.</fecha>
+    <isbn>0674015843; 9780674015845</isbn>
+    <cdu>
+      <num>1:930.1</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>1:930.1 CLARKELI historyt</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917850000004201">
+    <id>9917850000004201</id>
+    <iep>21165407930004201</iep>
+    <titulo>História dos trabalhos da sem-ventura Isea natural da cidade de Éfeso e dos amores de Clareo e Florisea : romance português quinhentista baseado na obra de A. Núñez de Reinoso</titulo>
+    <autor></autor>
+    <lugar>Lisboa :</lugar>
+    <editor>Catedra de Estudos Sefarditas "Alberto Benveniste"</editor>
+    <fecha>2017.</fecha>
+    <isbn>9789899962521; 989996252X</isbn>
+    <cdu>
+      <num>821.134.3-31.09</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.134.3 historia</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="990017403440204201">
+    <id>990017403440204201</id>
+    <iep>21135540310004201</iep>
+    <titulo>Hospitality and Islam : welcoming in God's name</titulo>
+    <autor>Siddiqui, Mona</autor>
+    <lugar>New Haven ; London :</lugar>
+    <editor>Yale University Press</editor>
+    <fecha>cop. 2015.</fecha>
+    <isbn>9780300211863; 0300211864</isbn>
+    <cdu>
+      <num>28</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>28:[1+3] SIDDIQUI hospital</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849400304201">
+    <id>9917849400304201</id>
+    <iep>21165347990004201</iep>
+    <titulo>I Jornada "in memoriam" de Josep Panisello : llengua i ensenyament : llengua estàndard i variació lingüística</titulo>
+    <autor>Jornada "in memoriam" de Josep Panisello Jesús) 2008. (1º.</autor>
+    <lugar>Barcelona :</lugar>
+    <editor>Institut d'Estudis Catalans</editor>
+    <fecha>2017.</fecha>
+    <isbn>9788499653945; 8499653944</isbn>
+    <cdu>
+      <num>811.134.1'26(063)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Series editoriales</col>
+        <sig>811.13 BIB FIL 82</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917846599204201">
+    <id>9917846599204201</id>
+    <iep>21164857300004201</iep>
+    <titulo>I tesori delle chiese di Petralia Soprana</titulo>
+    <autor></autor>
+    <lugar>Palermo :</lugar>
+    <editor>500g</editor>
+    <fecha>stamp. 2016.</fecha>
+    <isbn>9788899003302; 8899003300</isbn>
+    <cdu>
+      <num>7.046.3(450.821)"15/19"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>7 tesoride</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="990017535160204201">
+    <id>990017535160204201</id>
+    <iep>21105038850004201</iep>
+    <titulo>II República griega (1924-1935) : Venizelos y la diplomacia española</titulo>
+    <autor>Alvarez de Frutos, Pedro</autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2017.</fecha>
+    <isbn>9788495905796; 8495905795</isbn>
+    <cdu>
+      <num>94(495)"19"</num>
+      <num>327(460:495)"19"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(4)"18/..." ALVAREZD iirepubl</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844499004201">
+    <id>9917844499004201</id>
+    <iep>21164497450004201</iep>
+    <titulo>III centenario del nacimiento de Carlos III</titulo>
+    <autor></autor>
+    <lugar>Madrid :</lugar>
+    <editor>Instituto de Estudios Madrileños</editor>
+    <fecha>2017.</fecha>
+    <isbn>9788494047367; 8494047361</isbn>
+    <cdu>
+      <num>94(460)"1716"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Series editoriales</col>
+        <sig>gen_geo BIB EST 45</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849500304201">
+    <id>9917849500304201</id>
+    <iep>21165377990004201</iep>
+    <titulo>Ibáñez : la mirada universal</titulo>
+    <autor>Nicolás, Domingo 1937-</autor>
+    <lugar>Málaga :</lugar>
+    <editor>Publicaciones de la Galería Benedito</editor>
+    <fecha>D.L. 1993.</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>75 Ibáñez, Andrés (1971-)(083.824)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Folletos</col>
+        <sig>FOL/384734</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845898504201">
+    <id>9917845898504201</id>
+    <iep>21164736610004201</iep>
+    <titulo>Il calamo della memoria VII : raccolta delle relazioni discusse nell'incontro internazionale di Trieste, Biblioteca statale, 29-30 settembre 2016</titulo>
+    <autor></autor>
+    <lugar>[Trieste] :</lugar>
+    <editor>Edizioni Università di Trieste</editor>
+    <fecha>2017.</fecha>
+    <isbn>9788883039041; 8883039041</isbn>
+    <cdu>
+      <num>82(091)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>82(091) calamode</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849797404201">
+    <id>9917849797404201</id>
+    <iep>21165415440004201</iep>
+    <titulo>In the age of Averroes : Arabic philosophy in the sixth-twelfth century</titulo>
+    <autor></autor>
+    <lugar>London :</lugar>
+    <editor>Nino Aragno; Warburg Institute</editor>
+    <fecha>2011.</fecha>
+    <isbn>9780854811540; 0854811540</isbn>
+    <cdu>
+      <num>28:1</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>28:[1+3] intheage</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844995904201">
+    <id>9917844995904201</id>
+    <iep>21164575820004201</iep>
+    <titulo>Inclusive housing in an ageing society : innovative approaches</titulo>
+    <autor></autor>
+    <lugar>Bristol :</lugar>
+    <editor>The Policy Press</editor>
+    <fecha>2001.</fecha>
+    <isbn>1861342632; 9781861342638</isbn>
+    <cdu/>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>304.4-053.9 inclusiv</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844400104201">
+    <id>9917844400104201</id>
+    <iep>21164477920004201</iep>
+    <titulo>Insanity and sanctity in Byzantium : the ambiguity of religious experience</titulo>
+    <autor>Rotman, Youval.</autor>
+    <lugar>Cambridge ; London :</lugar>
+    <editor>Harvard University Press</editor>
+    <fecha>2016.</fecha>
+    <isbn>9780674057616; 0674057619</isbn>
+    <cdu>
+      <num>159.9:2</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>2-1 ROTMANYO insanity</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="990017218470204201">
+    <id>990017218470204201</id>
+    <iep>21112811730004201</iep>
+    <titulo>Interrogating Francoism : history ad dictatorship in twentieth-cetury Spain</titulo>
+    <autor></autor>
+    <lugar>New York :</lugar>
+    <editor>Bloomsbury Academic</editor>
+    <fecha>2016.</fecha>
+    <isbn>9781472576330; 1472576330</isbn>
+    <cdu>
+      <num>94(460)"1936/39"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Monografías duplicadas</col>
+        <sig>DUP/78712</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="990015981730204201">
+    <id>990015981730204201</id>
+    <iep>21101900110004201</iep>
+    <titulo>Introducción a los apuntes para el catálogo del archivo de la Real Sociedad Económica Matritense de Amigos del País : una opinión acerca de las sociedades económicas de amigos del país</titulo>
+    <autor>Pío Catalina, Juan</autor>
+    <lugar>Madrid :</lugar>
+    <editor>Imp y Lit Rodríguez de Llano</editor>
+    <fecha>[19--?].</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>017</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Legados</col>
+        <sig>BC RM F/2870</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917847500304201">
+    <id>9917847500304201</id>
+    <iep>21165067990004201</iep>
+    <titulo>Inventario de pintura medieval en la Diócesis de Plasencia</titulo>
+    <autor>Ramos Rubio, José Antonio.</autor>
+    <lugar>Cáceres :</lugar>
+    <editor>Institución Cultural El Brocense</editor>
+    <fecha>D.L. 2009.</fecha>
+    <isbn>9788492473403; 8492473401</isbn>
+    <cdu>
+      <num>75.033(460.251)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>7"04/14" RAMOSRUB inventar</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844399604201">
+    <id>9917844399604201</id>
+    <iep>21164477600004201</iep>
+    <titulo>Inventing America's "worst" family : eugenics, Islam, and the fall and rise of the tribe of Ishmael</titulo>
+    <autor>Deutsch, Nathaniel</autor>
+    <lugar>Berkeley [etc.] :</lugar>
+    <editor>University of California Press</editor>
+    <fecha>2009.</fecha>
+    <isbn>9780520255241; 0520255240</isbn>
+    <cdu>
+      <num>316.344.7(73)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>316(7/8) DEUTSCHN inventin</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844995704201">
+    <id>9917844995704201</id>
+    <iep>21164575740004201</iep>
+    <titulo>Isaac on jewish and christian altars : polemic and exegesis in Rashi and the Glossa ordinaria</titulo>
+    <autor>Schoenfeld, Devorah</autor>
+    <lugar>New York :</lugar>
+    <editor>Fordham University Press</editor>
+    <fecha>2013.</fecha>
+    <isbn>9780823243495; 0823243494</isbn>
+    <cdu>
+      <num>27-275</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>2 Biblia SCHOENFE isaaconj</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845897604201">
+    <id>9917845897604201</id>
+    <iep>21164736270004201</iep>
+    <titulo>Jean Pédiasimos : "Essai sur les douze travaux d'Héraclès"</titulo>
+    <autor>Levrie, Katrien</autor>
+    <lugar>Leuven :</lugar>
+    <editor>Peeters</editor>
+    <fecha>2018.</fecha>
+    <isbn>9789042935570; 904293557X</isbn>
+    <cdu>
+      <num>821.14 Heracles</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Series editoriales</col>
+        <sig>gen ORI 270</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844396904201">
+    <id>9917844396904201</id>
+    <iep>21164476370004201</iep>
+    <titulo>Jewish biblical interpretation and cultural exchange : comparative exegesis in context</titulo>
+    <autor></autor>
+    <lugar>Philadelphia :</lugar>
+    <editor>University of Pennsylvania Press</editor>
+    <fecha>cop. 2008.</fecha>
+    <isbn>9780812240740; 081224074X</isbn>
+    <cdu>
+      <num>27-275</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>2 Biblia jewishbi</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849397604201">
+    <id>9917849397604201</id>
+    <iep>21165347110004201</iep>
+    <titulo>Julio-Antonio</titulo>
+    <autor>Fernández del Amo, José Luis (1914-)</autor>
+    <lugar>[Madrid] :</lugar>
+    <editor>Editora Nacional</editor>
+    <fecha>D.L. 1961.</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>75 Julio-Antonio</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Folletos</col>
+        <sig>FOL/384741</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917846499304201">
+    <id>9917846499304201</id>
+    <iep>21164877580004201</iep>
+    <titulo>Keilschrifttexte aus Isin : Die inschriftlichen Funde der ersten Kampagnen der Ausgrabungen der Deutschen Forschungsgemeinschaft am Išan Bahriyat</titulo>
+    <autor></autor>
+    <lugar>München :</lugar>
+    <editor>Bayerische Akademie der Wissenschaften</editor>
+    <fecha>2018.</fecha>
+    <isbn>9783769601299; 3769601297</isbn>
+    <cdu/>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig></sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="990013571520204201">
+    <id>990013571520204201</id>
+    <iep>21136847110004201</iep>
+    <titulo>Kingdom of ants : José Celestino Mutis and the dawn of natural history in the new world</titulo>
+    <autor>Wilson, Edward O.</autor>
+    <lugar>Baltimore :</lugar>
+    <editor>Johns Hopkins university Press</editor>
+    <fecha>2010.</fecha>
+    <isbn>0801897858; 9780801897856</isbn>
+    <cdu/>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>5/6 Mutis.0 WILSONED kingdomo</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="990010045630204201">
+    <id>990010045630204201</id>
+    <iep>21108164930004201</iep>
+    <titulo>L'ordre des mots dans la phrase latine</titulo>
+    <autor>Marouzeau, J</autor>
+    <lugar>París :</lugar>
+    <editor>Les Belles Lettres</editor>
+    <fecha>&lt;1938-1949&gt;.</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>811.124'367</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>SXX</col>
+        <sig>SXX/56522</sig>
+        <des>Vol. 2</des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917851599504201">
+    <id>9917851599504201</id>
+    <iep>21165817560004201</iep>
+    <titulo>La Bastille sous la Régence : mémoires de Mme. de Staal de Launay</titulo>
+    <autor>Staal de Launay, Marguerite Jeanne Cordier baronne de (1684-1750).</autor>
+    <lugar>Paris :</lugar>
+    <editor>Arthéme Fayard</editor>
+    <fecha>[1911].</fecha>
+    <isbn></isbn>
+    <cdu/>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Legados</col>
+        <sig>BC RM F/2874</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844500204201">
+    <id>9917844500204201</id>
+    <iep>21164497920004201</iep>
+    <titulo>La Real Armada : la Marine des Bourbons d'Espagne au XVIIIe siècle</titulo>
+    <autor></autor>
+    <lugar>Paris :</lugar>
+    <editor>Presses de l'Université Paris-Sorbonne</editor>
+    <fecha>cop. 2018.</fecha>
+    <isbn>9791023105834</isbn>
+    <cdu>
+      <num>355.49(460)"17"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(460)"15/17" realarma</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917846600204201">
+    <id>9917846600204201</id>
+    <iep>21164857900004201</iep>
+    <titulo>La Sicilia dei Viceré nell'età degli Asburgo (1516-1700) : la difesa dell'isola, le città capitali, la celebrazione della monarchia</titulo>
+    <autor></autor>
+    <lugar>Palermo :</lugar>
+    <editor>Caracol</editor>
+    <fecha>stamp. 2016.</fecha>
+    <isbn>9788898546206; 8898546203</isbn>
+    <cdu>
+      <num>94(450.82)"15/17"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(4)"15/17" siciliad</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844399304201">
+    <id>9917844399304201</id>
+    <iep>21164477390004201</iep>
+    <titulo>La Sisena Flota a Barcelona : quan els nords-americans envaïen la Rambla</titulo>
+    <autor>Theros, Xavier.</autor>
+    <lugar>Barcelona :</lugar>
+    <editor>Ajuntament de Barcelona; La Campana</editor>
+    <fecha>2010.</fecha>
+    <isbn>9788496735491; 8496735494; 9788498502718; 8498502713</isbn>
+    <cdu>
+      <num>94(460.235):355.324(73)"19"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(460)"1940/..." THEROSXA sisenafl</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917847000204201">
+    <id>9917847000204201</id>
+    <iep>21164977960004201</iep>
+    <titulo>La didascalia de Jacob</titulo>
+    <autor></autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2015.</fecha>
+    <isbn>9788495905628; 8495905620</isbn>
+    <cdu>
+      <num>94(495+56)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(4)"04/14" didascal</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917848000304201">
+    <id>9917848000304201</id>
+    <iep>21165137920004201</iep>
+    <titulo>La diversió de la paradoxa...</titulo>
+    <autor>Prat, Toni</autor>
+    <lugar>Badalona :</lugar>
+    <editor>Poesia Pont del Petroli</editor>
+    <fecha>2011.</fecha>
+    <isbn>9788461480876; 8461480872</isbn>
+    <cdu>
+      <num>77 Prat, Toni</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Folletos</col>
+        <sig>FOL/384724</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845898304201">
+    <id>9917845898304201</id>
+    <iep>21164877680004201</iep>
+    <titulo>La forma epistolar en los espectadores españoles : características y tipología de las cartas</titulo>
+    <autor>Hobisch, Elisabeth</autor>
+    <lugar>Frankfurt am Main :</lugar>
+    <editor>Peter Lang</editor>
+    <fecha>cop. 2017.</fecha>
+    <isbn>9783631727409; 3631727402</isbn>
+    <cdu>
+      <num>821.342.2-6"17".09</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.134.2"15/17".0 HOBISCHE formaepi</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917840595704201">
+    <id>9917840595704201</id>
+    <iep>21163806330004201</iep>
+    <titulo>La gestión de los residuos en "Augusta Emerita" : siglos I a.C. - VIII d.C.</titulo>
+    <autor>Acero Pérez, Jesús</autor>
+    <lugar>Madrid :</lugar>
+    <editor>Instituto Arqueología Mérida Consejo Superior de Investigaciones Científicas</editor>
+    <fecha>2018.</fecha>
+    <isbn>9788400103293; 8400103297</isbn>
+    <cdu>
+      <num>94(37):628.4.032</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Series editoriales</col>
+        <sig>902/904 ANE 82</sig>
+        <des></des>
+      </ejem>
+      <ejem>
+        <mat>Active</mat>
+        <col>Mediateca</col>
+        <sig>MED/42627</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845399404201">
+    <id>9917845399404201</id>
+    <iep>21164677370004201</iep>
+    <titulo>La honra y el dinero</titulo>
+    <autor>Teotokis, Konstantinos (1872-1923)</autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2017.</fecha>
+    <isbn>9788495905857; 849590585X</isbn>
+    <cdu>
+      <num>821.14'06-31"18"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.14 TEOTOKIS honrayel</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845799804201">
+    <id>9917845799804201</id>
+    <iep>21164727660004201</iep>
+    <titulo>La hora del lince ; Los fabricantes de imágenes</titulo>
+    <autor>Enquist, Per Olov (1934-).</autor>
+    <lugar>Madrid :</lugar>
+    <editor>Publicaciones de la ADE</editor>
+    <fecha>2018.</fecha>
+    <isbn>9788417189082; 8417189084</isbn>
+    <cdu>
+      <num>821.113.6-2"19"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.11 ENQUISTP horadell</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844498404201">
+    <id>9917844498404201</id>
+    <iep>21164497340004201</iep>
+    <titulo>La huella de Santa Teresa de Jesús en Madrid</titulo>
+    <autor></autor>
+    <lugar>Madrid :</lugar>
+    <editor>Instituto de Estudios Madrileños</editor>
+    <fecha>2017.</fecha>
+    <isbn>9788494047312; 8494047310</isbn>
+    <cdu>
+      <num>94(460.27)"15":27-789.34</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Series editoriales</col>
+        <sig>gen_geo BIB EST 43</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849499404201">
+    <id>9917849499404201</id>
+    <iep>21165377620004201</iep>
+    <titulo>La memòria de l'efímer : [del 27 d'abril fins al 25 de juny de 2006 : Museu d'Art Modern de la Diputació de Tarragona]</titulo>
+    <autor>Escoda, Pep</autor>
+    <lugar>Tarragona :</lugar>
+    <editor>Diputació de Tarragona</editor>
+    <fecha>D.L. 2006.</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>77 Escoda, Pep (083.824)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>77 ESCODAPE memoriad</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845398404201">
+    <id>9917845398404201</id>
+    <iep>21164676710004201</iep>
+    <titulo>La mirada de Occidente : Bizancio en la literatura medieval española, siglos XII-XV</titulo>
+    <autor>Morales Osorio, Susana</autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2009.</fecha>
+    <isbn>9788495905291; 8495905299</isbn>
+    <cdu>
+      <num>821.134.2"11/14".09</num>
+      <num>94(495)"03/14"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.134.2"04/14".0 MORALESO miradade</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917846499104201">
+    <id>9917846499104201</id>
+    <iep>21164877510004201</iep>
+    <titulo>La mitología griega en la tradición literaria : de la Antigüedad a la Grecia contemporánea</titulo>
+    <autor></autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2017.</fecha>
+    <isbn>9788495905895; 8495905892</isbn>
+    <cdu>
+      <num>821.14:255.2-264</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.14.0 mitologi</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917847900304201">
+    <id>9917847900304201</id>
+    <iep>21165117950004201</iep>
+    <titulo>La modernidad en la "Biblioteca del Niño Mexicano" : Posada, Frías y Maucci</titulo>
+    <autor>Bonilla Reyna, Helia Emma</autor>
+    <lugar>México, D.F. :</lugar>
+    <editor>Universidad Nacional Autónoma de México Instituto de Investigaciones Estéticas</editor>
+    <fecha>2015.</fecha>
+    <isbn>9786070265990; 6070265998</isbn>
+    <cdu>
+      <num>821.134.2-93(72).09"18/19"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.134.2"18/...".0 BONILLAR modernid</sig>
+        <des></des>
+      </ejem>
+      <ejem>
+        <mat>Active</mat>
+        <col>Folletos</col>
+        <sig>FOL/384725</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845397604201">
+    <id>9917845397604201</id>
+    <iep>21164676210004201</iep>
+    <titulo>La presencia del mundo griego en los fondos documentales españoles</titulo>
+    <autor></autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2011.</fecha>
+    <isbn>9788495905352; 8495905353</isbn>
+    <cdu>
+      <num>930.255(460):94(495)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>930 presenci</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="990011864310204201">
+    <id>990011864310204201</id>
+    <iep>21112267480004201</iep>
+    <titulo>La recepción de Federico García Lorca en Grecia : el caso de "Bodas de sangre"</titulo>
+    <autor>López Recio, Virginia</autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2008.</fecha>
+    <isbn>9788495905246; 8495905248</isbn>
+    <cdu>
+      <num>821.134.2 García Lorca, Federico 1.07</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.134.2"18/..." Ga.0 LOPEZREC recepcio</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844999904201">
+    <id>9917844999904201</id>
+    <iep>21164577570004201</iep>
+    <titulo>La reinvención de la barbarie africana durante la antigüedad tardía : africanos y romanos en conflicto con el poder bizantino</titulo>
+    <autor>Sánchez Medina, Esther.</autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2013.</fecha>
+    <isbn>9788495905444; 8495905442</isbn>
+    <cdu>
+      <num>94(495)".../0565"</num>
+      <num>94(6-17)".../0647"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94 SANCHEZM reinvenc</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917850999104201">
+    <id>9917850999104201</id>
+    <iep>21165667240004201</iep>
+    <titulo>La scala e lo specchio : L´originalità di Bonaventura da Bagnoregio a otto secoli dalla nascita : Atti del Convegno dell´Associazione Benemeriti del Comune e della Provincia di Milano : Pensiero e attualità di Bonaventura da Bagnoregio a otto secoli dalla nascita, Milano, 31 maggio 2017</titulo>
+    <autor>Associazione Benemeriti del Comune e della Provincia di Milano Convegno Milano) (2017.</autor>
+    <lugar>Roma :</lugar>
+    <editor>IF Press</editor>
+    <fecha>imp. 2018.</fecha>
+    <isbn>9788867881383; 8867881388</isbn>
+    <cdu>
+      <num>27-36 Buenaventura, San</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>27-3 ASSOCIAZ scalaelo</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844900104201">
+    <id>9917844900104201</id>
+    <iep>21164567940004201</iep>
+    <titulo>Landwehren im sauerländischen Rothaargebirge, Hochsauerlandkreis</titulo>
+    <autor>Köhne, Reinhard</autor>
+    <lugar>Münster :</lugar>
+    <editor>Altertumskommission für Westfalen</editor>
+    <fecha>2018.</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>902(430)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Folletos</col>
+        <sig>FOL/384717</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917848600004201">
+    <id>9917848600004201</id>
+    <iep>21165187920004201</iep>
+    <titulo>Le commentaire astronomique aux "Tables faciles" de Ptolémée attribué à Stéphanos d'Alexandrie</titulo>
+    <autor>Estéfanos de Alejandría</autor>
+    <lugar>Louvain-la-Neuve :</lugar>
+    <editor>Peeters; Université Catholique de Louvain Institut orientaliste</editor>
+    <fecha>2016-.</fecha>
+    <isbn>9789042930742; 9042930748; 9782758402084; 2758402084</isbn>
+    <cdu/>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>52(091) ESTEFANO commenta</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845798204201">
+    <id>9917845798204201</id>
+    <iep>21164726980004201</iep>
+    <titulo>Les églises de la Terre : les communautés paysannes du Val d'Aran et des Pyrénées centrales, XIIIe-XVIIe siècle</titulo>
+    <autor>Brunet, Serge.</autor>
+    <lugar>Toulouse :</lugar>
+    <editor>Privat</editor>
+    <fecha>2018.</fecha>
+    <isbn>9782708969957; 2708969951</isbn>
+    <cdu/>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94 BRUNETSE eglisesd</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849399204201">
+    <id>9917849399204201</id>
+    <iep>21165347540004201</iep>
+    <titulo>Licini</titulo>
+    <autor>Marchiori, Giuseppe.</autor>
+    <lugar>[Madrid] :</lugar>
+    <editor>Editora Nacional</editor>
+    <fecha>D.L. 1961.</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>75 Licini, Osvaldo</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Folletos</col>
+        <sig>FOL/384736</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849399804201">
+    <id>9917849399804201</id>
+    <iep>21165347680004201</iep>
+    <titulo>Los pilares del reino : el capitel gótico de la Pobla medieval de Ifach (Calp, Alicante)</titulo>
+    <autor>Menéndez Fueyo, José Luis</autor>
+    <lugar>[Alicante] :</lugar>
+    <editor>Museo Arqueológico de Alicante</editor>
+    <fecha>D.L. 2018.</fecha>
+    <isbn>9788409013173; 8409013177</isbn>
+    <cdu>
+      <num>72.033.5(460.315)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>7"04/14" MENENDEZ pilaresd</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849500004201">
+    <id>9917849500004201</id>
+    <iep>21165377930004201</iep>
+    <titulo>Luis Bono</titulo>
+    <autor>Sesmero Ruiz, Julián.</autor>
+    <lugar>Málaga :</lugar>
+    <editor>Publicaciones de la Galería Benedito</editor>
+    <fecha>D.L. 1992.</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>75 Bono, Luis (083.824)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Folletos</col>
+        <sig>FOL/384731</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845796704201">
+    <id>9917845796704201</id>
+    <iep>21164726490004201</iep>
+    <titulo>Madhouse : psychiatry and politics in Cuban history</titulo>
+    <autor>Lambe, Jennifer L.</autor>
+    <lugar>Chapel Hill :</lugar>
+    <editor>The University of North Carolina Press</editor>
+    <fecha>2017.</fecha>
+    <isbn>9781469631011; 1469631016</isbn>
+    <cdu>
+      <num>616.8(729.1)(091=</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>616.8(091) LAMBEJEN madhouse</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845798704201">
+    <id>9917845798704201</id>
+    <iep>21164727380004201</iep>
+    <titulo>Making ancient cities : space and place in early urban societies</titulo>
+    <autor></autor>
+    <lugar>Cambridge :</lugar>
+    <editor>Cambridge University Press</editor>
+    <fecha>2014.</fecha>
+    <isbn>9781107046528; 1107046521</isbn>
+    <cdu>
+      <num>911.375"../04"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>911.375 makingan</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844398304201">
+    <id>9917844398304201</id>
+    <iep>21164477040004201</iep>
+    <titulo>Managing the undesirables : refugee camps and humanitarian government</titulo>
+    <autor>Agier, Michel.</autor>
+    <lugar>Cambridge :</lugar>
+    <editor>Polity Press</editor>
+    <fecha>2016.</fecha>
+    <isbn>9780745649023; 0745649025</isbn>
+    <cdu>
+      <num>314.745.3-054.73</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>314.7 AGIERMIC managing</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917851599604201">
+    <id>9917851599604201</id>
+    <iep>21165817590004201</iep>
+    <titulo>Mandrin et les contrebandiers</titulo>
+    <autor>Funck-Brentano, Frantz (1862-1947).</autor>
+    <lugar>Paris :</lugar>
+    <editor>Arthéme Fayard</editor>
+    <fecha>[191?].</fecha>
+    <isbn></isbn>
+    <cdu/>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Legados</col>
+        <sig>BC RM F/2873</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849397004201">
+    <id>9917849397004201</id>
+    <iep>21165346960004201</iep>
+    <titulo>Masats</titulo>
+    <autor>Fernández del Amo, José Luis (1914-)</autor>
+    <lugar>[Madrid] :</lugar>
+    <editor>Editora Nacional</editor>
+    <fecha>D.L. 1961.</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>77 Masats, Ramón</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Folletos</col>
+        <sig>FOL/384746</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917846998704201">
+    <id>9917846998704201</id>
+    <iep>21164977350004201</iep>
+    <titulo>Materia de historia</titulo>
+    <autor>Bryennius, Nicephorus</autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegros y Chipriotas</editor>
+    <fecha>2012.</fecha>
+    <isbn>9788495905369; 8495905361</isbn>
+    <cdu>
+      <num>94(495:56)"1081/1118"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(4)"04/14" BRYENNIU materiad</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845796504201">
+    <id>9917845796504201</id>
+    <iep>21164726400004201</iep>
+    <titulo>Medicalizing blackness : making racial difference in the Atlantic world, 1780-1840</titulo>
+    <autor>Hogarth, Rana A.</autor>
+    <lugar>Chapel Hill :</lugar>
+    <editor>The University of North Carolina Press</editor>
+    <fecha>2017.</fecha>
+    <isbn>9781469632872; 146963287X</isbn>
+    <cdu>
+      <num>39:616.9(7/8)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>39(7/8) HOGARTHR medicali</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845796104201">
+    <id>9917845796104201</id>
+    <iep>21164726210004201</iep>
+    <titulo>Medieval women and their objects</titulo>
+    <autor></autor>
+    <lugar>Ann Arbor :</lugar>
+    <editor>University of Michigan Press</editor>
+    <fecha>2017.</fecha>
+    <isbn>9780472130146; 0472130145</isbn>
+    <cdu>
+      <num>94(4)"04/14":305-055.2</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94-055.2 medieval</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845799304201">
+    <id>9917845799304201</id>
+    <iep>21164727530004201</iep>
+    <titulo>Meetings with remarkable manuscripts</titulo>
+    <autor>Hamel, Christopher de.</autor>
+    <lugar>[London] :</lugar>
+    <editor>Allen Lane</editor>
+    <fecha>2016.</fecha>
+    <isbn>9780241003046; 0241003040</isbn>
+    <cdu>
+      <num>091.31</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>7"04/14" HAMELCHR meetings</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845796904201">
+    <id>9917845796904201</id>
+    <iep>21164726330004201</iep>
+    <titulo>Memorias del Primer Congreso sobre la Emigración Española hacia el Área del Caribe desde Finales del Siglo XIX.</titulo>
+    <autor>Congreso sobre la Emigración Española hacia el Área del Caribe desde Finales del Siglo XIX Santo Domingo) 1989. (1º.</autor>
+    <lugar>Santo Domingo, República Dominicana :</lugar>
+    <editor>Centro Cultural Español; Casa de España en Santo Domingo; Fundación García Arévalo</editor>
+    <fecha>2002.</fecha>
+    <isbn>9993467065; 9789993467069</isbn>
+    <cdu>
+      <num>314.7(728/729)"18/19"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>314.7(7/8) CONGRESO memorias</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917851599404201">
+    <id>9917851599404201</id>
+    <iep>21165817520004201</iep>
+    <titulo>Mémoires authentiques de Latude</titulo>
+    <autor>Funck-Brentano, Frantz (1862-1947).</autor>
+    <lugar>Paris :</lugar>
+    <editor>Arthéme Fayard</editor>
+    <fecha>[1911].</fecha>
+    <isbn></isbn>
+    <cdu/>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Legados</col>
+        <sig>BC RM F/2875</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845300004201">
+    <id>9917845300004201</id>
+    <iep>21164637870004201</iep>
+    <titulo>Mi hermano Yorgos Seferis</titulo>
+    <autor>Tsatsos, Ioanna</autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2008.</fecha>
+    <isbn>9788495905253; 8495905256</isbn>
+    <cdu>
+      <num>821.14:929 Seferis, Giorgos</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.14 TSATSOSI miherman</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844499204201">
+    <id>9917844499204201</id>
+    <iep>21164497510004201</iep>
+    <titulo>Miguel de Cervantes Saavedra y Madrid. IV centenario de su muerte</titulo>
+    <autor></autor>
+    <lugar>Madrid :</lugar>
+    <editor>Instituto de Estudios Madrileños</editor>
+    <fecha>2017.</fecha>
+    <isbn>9788494047329; 8494047329</isbn>
+    <cdu>
+      <num>821.134.2 Cervantes Saavedra, Miguel de.07</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Series editoriales</col>
+        <sig>gen_geo BIB EST 44</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849396604201">
+    <id>9917849396604201</id>
+    <iep>21165346850004201</iep>
+    <titulo>Miguel de Cervantes en Écija (1587-1589)</titulo>
+    <autor>Martín Ojeda, Marina.</autor>
+    <lugar>Écija :</lugar>
+    <editor>Asociación Cultural Ecijana "Martín de Roa"</editor>
+    <fecha>2005.</fecha>
+    <isbn>8460952703; 9788460952701</isbn>
+    <cdu>
+      <num>821.134.2 Cervantes Saavedra, Miguel de.09:94(460.353Écija)"15"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.134.2"15/17" Cer.0 MARTINOJ miguelde</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845397804201">
+    <id>9917845397804201</id>
+    <iep>21164676350004201</iep>
+    <titulo>Missing persons : multidisciplinary perspectives on the disappeared</titulo>
+    <autor></autor>
+    <lugar>Toronto :</lugar>
+    <editor>Canadian Scholars' Press</editor>
+    <fecha>2016.</fecha>
+    <isbn>9781551309309; 1551309300</isbn>
+    <cdu>
+      <num>341.322.5</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>341 missingp</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917847398404201">
+    <id>9917847398404201</id>
+    <iep>21165047380004201</iep>
+    <titulo>Moda, traje y ornato en el entorno murciano, (1759-1808) : el relato de las fuentes notariales y literarias</titulo>
+    <autor>Martínez Alcázar, Elena</autor>
+    <lugar>[Murcia] :</lugar>
+    <editor>Universidad de Murcia Servicio de Publicaciones</editor>
+    <fecha>2018.</fecha>
+    <isbn>9788417157500; 8417157506</isbn>
+    <cdu>
+      <num>391(460.33)"17/18"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>391 MARTINEZ modatraj</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845799704201">
+    <id>9917845799704201</id>
+    <iep>21164727700004201</iep>
+    <titulo>Modes of production and archaeology</titulo>
+    <autor></autor>
+    <lugar>Gainesville [etc.] :</lugar>
+    <editor>University Press of Florida</editor>
+    <fecha>cop. 2017.</fecha>
+    <isbn>9780813054308; 0813054303</isbn>
+    <cdu>
+      <num>338.3.01:902</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>902 modesofp</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845299704201">
+    <id>9917845299704201</id>
+    <iep>21164637760004201</iep>
+    <titulo>Moskov-Selim : la historia de un soldado</titulo>
+    <autor>Viziinós, Georgios (1849-1896)</autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2002.</fecha>
+    <isbn>8495905043; 9788495905048</isbn>
+    <cdu>
+      <num>821.14'06-32"18"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.14 VIZIINOS moskovse</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="990017775290204201">
+    <id>990017775290204201</id>
+    <iep>21108504170004201</iep>
+    <titulo>Mujeres con poder en la Galicia Medieval (siglos XIII-XV) : estudios, biografías y documentos</titulo>
+    <autor></autor>
+    <lugar>Santiago de Compostela :</lugar>
+    <editor>Instituto de Estudios Gallegos Padre Sarmiento (CSIC)</editor>
+    <fecha>2017.</fecha>
+    <isbn>9788400102975; 8400102975</isbn>
+    <cdu>
+      <num>305-055.2(460.11)"13/15"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Mediateca</col>
+        <sig>MED/42628</sig>
+        <des></des>
+      </ejem>
+      <ejem>
+        <mat>Active</mat>
+        <col>Series editoriales</col>
+        <sig>gen_geo CUA EST ANE 44</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917847000304201">
+    <id>9917847000304201</id>
+    <iep>21164977990004201</iep>
+    <titulo>Mujeres o materia oscura</titulo>
+    <autor>Deligiorgi, Alexandra</autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2017.</fecha>
+    <isbn>9788495905864; 8495905868</isbn>
+    <cdu>
+      <num>821.14'06</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.14 DELIGIOR mujereso</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917851098104201">
+    <id>9917851098104201</id>
+    <iep>21165687210004201</iep>
+    <titulo>Método Perrier de lengua francesa : tercer curso</titulo>
+    <autor>Perrier Rouvier, Alphonse.</autor>
+    <lugar>Barcelona :</lugar>
+    <editor>Ediciones Perrier</editor>
+    <fecha>[19--].</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>37:811.133.1</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Folletos</col>
+        <sig>FOL/384768</sig>
+        <des>Programa</des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917847000104201">
+    <id>9917847000104201</id>
+    <iep>21164977930004201</iep>
+    <titulo>Narración histórica</titulo>
+    <autor>Acropolita, Jorge (1212-1282)</autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2012.</fecha>
+    <isbn>9788495905383; 8495905388</isbn>
+    <cdu>
+      <num>94(495+560.118 E.)"1204/61"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(4)"04/14" ACROPOLI narracio</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917846900304201">
+    <id>9917846900304201</id>
+    <iep>21164967990004201</iep>
+    <titulo>Naturaleza y opinión según San Máximo el Confesor</titulo>
+    <autor>Andreou, Sokratis</autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2012.</fecha>
+    <isbn>9788495905376; 849590537X</isbn>
+    <cdu>
+      <num>27-36 Máximo el Confesor, Santo</num>
+      <num>27-31</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>27-3 ANDREOUS naturale</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844996804201">
+    <id>9917844996804201</id>
+    <iep>21164576330004201</iep>
+    <titulo>New worlds from old texts : revisiting ancient space and place</titulo>
+    <autor></autor>
+    <lugar>Oxford :</lugar>
+    <editor>Oxford Univesity Press</editor>
+    <fecha>2016.</fecha>
+    <isbn>9780199664139; 0199664137</isbn>
+    <cdu>
+      <num>913(3)(093)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>91 newworld</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845798904201">
+    <id>9917845798904201</id>
+    <iep>21164727440004201</iep>
+    <titulo>Nomadic cultures in the mega-structure of the Eurasian world</titulo>
+    <autor>Chernykh, Evgenij N.</autor>
+    <lugar>Bristol (EEUU) :</lugar>
+    <editor>LRC Publishing House</editor>
+    <fecha>cop. 2017.</fecha>
+    <isbn>9781618115522; 1618115529</isbn>
+    <cdu>
+      <num>902:308</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>902 CHERNYKH nomadicc</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845399704201">
+    <id>9917845399704201</id>
+    <iep>21164677590004201</iep>
+    <titulo>Not only history : proceedings of the Conference in Honor of Mario Liverani held in Sapienza-Università di Roma, Dipartimento di Scienze dell'Antichità, 20-21 April 2009</titulo>
+    <autor>Conference in Honor of Mario Liverani Roma) (2009.</autor>
+    <lugar>Winona Lake (Indiana) :</lugar>
+    <editor>Eisenbrauns</editor>
+    <fecha>2016.</fecha>
+    <isbn>9781575064567; 1575064561</isbn>
+    <cdu>
+      <num>94(56)".../03"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(56)".../03" CONFEREN notonlyh</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="990001435110204201">
+    <id>990001435110204201</id>
+    <iep>21139256100004201</iep>
+    <titulo>Nuevas escenas matritenses</titulo>
+    <autor>Cela, Camilo José (1916-2002).</autor>
+    <lugar>Barcelona :</lugar>
+    <editor>Plaza y Janés</editor>
+    <fecha>D.L. 1988.</fecha>
+    <isbn>840138124X; 9788401381249</isbn>
+    <cdu>
+      <num>860 Cela, Camilo José 7 Nuevas</num>
+      <num>860-36"19"</num>
+      <num>860-36</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Monografías duplicadas</col>
+        <sig>DUP/78739</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="990010907930204201">
+    <id>990010907930204201</id>
+    <iep>21110613460004201</iep>
+    <titulo>Obres gramaticals</titulo>
+    <autor>Febrer i Cardona, Antoni (1761-1841)</autor>
+    <lugar>Barcelona :</lugar>
+    <editor>Institut d'Estudis Catalans</editor>
+    <fecha>2004-2017.</fecha>
+    <isbn>9788472837485; 8472837483; 8472837475; 9788472837478; 9788415291343; 8415291345; 9788499653716; 8499653715</isbn>
+    <cdu>
+      <num>811.134.2'282(460.32 Menorca)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Series editoriales</col>
+        <sig>811.13 BIB FIL 81</sig>
+        <des>Vol. 2</des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844398204201">
+    <id>9917844398204201</id>
+    <iep>21164476900004201</iep>
+    <titulo>On the margins of the world : the refugee experience today</titulo>
+    <autor>Agier, Michel.</autor>
+    <lugar>Cambridge :</lugar>
+    <editor>Polity Press</editor>
+    <fecha>cop. 2008.</fecha>
+    <isbn>9780745640525; 0745640524</isbn>
+    <cdu>
+      <num>314.745.3-054.73</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>314.7 AGIERMIC onthemar</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917846500304201">
+    <id>9917846500304201</id>
+    <iep>21164877990004201</iep>
+    <titulo>Opiniones de muchos varones doctos sobre si debe perseguirse a los herejes y en general sobre cómo ha de actuarse con ellos : un libro muy necesario en esta época tan turbulenta, y muy útil a todos...</titulo>
+    <autor>Castelio, Sebastián</autor>
+    <lugar>Villanueva de Sijena (Huesca) :</lugar>
+    <editor>Instituto de Estudios Sijenenses "Miguel Servet"</editor>
+    <fecha>D.L. 2018.</fecha>
+    <isbn>9788493973599; 8493973599</isbn>
+    <cdu>
+      <num>27-87:342.731</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>27-9 CASTELIO opinione</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917838089904201">
+    <id>9917838089904201</id>
+    <iep>21163262050004201</iep>
+    <titulo>Orden social y salud pública en Puerto Rico, siglo XIX : una mirada desde la historia cultural</titulo>
+    <autor>Cortés Zavala, María Teresa</autor>
+    <lugar>Michoachán, Mexico :</lugar>
+    <editor>Universidad Michoacana de San Nicolás de Hidalgo</editor>
+    <fecha>2017.</fecha>
+    <isbn>9786074246445; 6074246440</isbn>
+    <cdu>
+      <num>94(729.5)"18"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(729) CORTESZA ordensoc</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="990011385610204201">
+    <id>990011385610204201</id>
+    <iep>21127994230004201</iep>
+    <titulo>Outside and inside America : fotografías = photographs, 30 de septiembre al 7 de noviembre de 1993, Palacio de los Condes de Gabia, Granada</titulo>
+    <autor>Dane, Bill</autor>
+    <lugar>Granada :</lugar>
+    <editor>Diputacion Provincial</editor>
+    <fecha>D.L.1993.</fecha>
+    <isbn>8478070982; 9788478070985</isbn>
+    <cdu>
+      <num>77 Dane, Bill (083.824)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Tumbos</col>
+        <sig>TUMBOS/1673</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845000004201">
+    <id>9917845000004201</id>
+    <iep>21164577650004201</iep>
+    <titulo>Parents without papers : the progress and pitfalls of Mexican American integration</titulo>
+    <autor>Bean, Frank D.</autor>
+    <lugar>New York :</lugar>
+    <editor>Russell Sage Foundation</editor>
+    <fecha>2015.</fecha>
+    <isbn>9780871540423; 0871540428</isbn>
+    <cdu>
+      <num>338-054(72:73)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>314.7(7/8) BEANFRAN parentsw</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849397104201">
+    <id>9917849397104201</id>
+    <iep>21165346990004201</iep>
+    <titulo>Perdikidis</titulo>
+    <autor>Spiteris, Tony P.</autor>
+    <lugar>[Madrid] :</lugar>
+    <editor>Editora Nacional</editor>
+    <fecha>D.L. 1961.</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>75 Perdikidis, Dimitri</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Folletos</col>
+        <sig>FOL/384745</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845900304201">
+    <id>9917845900304201</id>
+    <iep>21164737990004201</iep>
+    <titulo>Philopatris : aphieroma ston Alexe-Eudald Solá = tomo en honor a Alexis-Eudald Solá</titulo>
+    <autor></autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas = Europaiké Etaireia Neoellenikón Spoudon</editor>
+    <fecha>2004.</fecha>
+    <isbn>8495905108; 9788495905109</isbn>
+    <cdu>
+      <num>811.14'06(082.2)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>811.14 philopat</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917850999504201">
+    <id>9917850999504201</id>
+    <iep>21165667150004201</iep>
+    <titulo>Pigmentos &amp; brillos en la costa del Ecuador precolombino = Pigments and sheens on the coast of pre-columbian Ecuador</titulo>
+    <autor></autor>
+    <lugar>[Quito] :</lugar>
+    <editor>La Caracola</editor>
+    <fecha>cop. 2018.</fecha>
+    <isbn>97899942997678</isbn>
+    <cdu>
+      <num>7.031.2(=87)(083.824)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Folletos</col>
+        <sig>FOL/384767</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849397404201">
+    <id>9917849397404201</id>
+    <iep>21165347050004201</iep>
+    <titulo>Planes</titulo>
+    <autor>Jiménez, Salvador</autor>
+    <lugar>[Madrid] :</lugar>
+    <editor>Editora Nacional</editor>
+    <fecha>D.L. 1961.</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>730 Planes, José</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Folletos</col>
+        <sig>FOL/384743</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917851100004201">
+    <id>9917851100004201</id>
+    <iep>21165687890004201</iep>
+    <titulo>Poemas</titulo>
+    <autor>Fernández Palacios, Jesús 1947-</autor>
+    <lugar>Palma [de Mallorca] :</lugar>
+    <editor>Universitat de les Illes Balears</editor>
+    <fecha>2008.</fecha>
+    <isbn>9788483840306; 8483840308</isbn>
+    <cdu>
+      <num>821.134.2-14"19"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Folletos</col>
+        <sig>FOL/384764</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917851100204201">
+    <id>9917851100204201</id>
+    <iep>21165687950004201</iep>
+    <titulo>Poemas</titulo>
+    <autor>Viñals, José</autor>
+    <lugar>Palma [de Mallorca] :</lugar>
+    <editor>Universitat de les Illes Balears Servei de Publicacions i Intercanvi Científic</editor>
+    <fecha>2006.</fecha>
+    <isbn>8476328052; 9788476328057</isbn>
+    <cdu>
+      <num>821.134.2-1"19"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Folletos</col>
+        <sig>FOL/384762</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917846300304201">
+    <id>9917846300304201</id>
+    <iep>21164807960004201</iep>
+    <titulo>Politics and friendship : letters from the International Woman Suffrage Alliance, 1902-1942</titulo>
+    <autor></autor>
+    <lugar>Columbus :</lugar>
+    <editor>Ohio State University Press</editor>
+    <fecha>cop. 1990.</fecha>
+    <isbn>0814205097; 9780814205099</isbn>
+    <cdu>
+      <num>32-055.2(044.2)</num>
+      <num>342.82</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94-055.2 politics</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845900204201">
+    <id>9917845900204201</id>
+    <iep>21164737960004201</iep>
+    <titulo>Polyptychon : homenaje a Ioannis Hassiotis = aphierōma ston Ioannē Chasiōtē</titulo>
+    <autor></autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2008.</fecha>
+    <isbn>9788495905277; 8495905272</isbn>
+    <cdu>
+      <num>94(495)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(4) polyptyc</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917847498904201">
+    <id>9917847498904201</id>
+    <iep>21165067590004201</iep>
+    <titulo>Por qué adoro yo a Sevilla</titulo>
+    <autor>Decref y Ruiz, Joaquín.</autor>
+    <lugar>Madrid :</lugar>
+    <editor>Establecimiento tipográfico de Antonio Marzo</editor>
+    <fecha>[1916?].</fecha>
+    <isbn></isbn>
+    <cdu/>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Legados</col>
+        <sig>BC RM F/2792</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849396804201">
+    <id>9917849396804201</id>
+    <iep>21165346900004201</iep>
+    <titulo>Povedano</titulo>
+    <autor>Carbonell, Fernando.</autor>
+    <lugar>[Madrid] :</lugar>
+    <editor>Editora Nacional</editor>
+    <fecha>D.L. 1961.</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>75 Povedano, Antonio</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Folletos</col>
+        <sig>FOL/384748</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844998104201">
+    <id>9917844998104201</id>
+    <iep>21164577100004201</iep>
+    <titulo>Preaching eugenics : religious leaders and the American eugenics movement</titulo>
+    <autor>Rosen, Christine</autor>
+    <lugar>Oxford :</lugar>
+    <editor>Oxford University Press</editor>
+    <fecha>2004.</fecha>
+    <isbn>9780195156799; 019515679X</isbn>
+    <cdu>
+      <num>613.94</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>17:2 ROSENCHR preachin</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845399804201">
+    <id>9917845399804201</id>
+    <iep>21164677750004201</iep>
+    <titulo>Princeton readings in Islamist thought : texts and contexts from Al-Banna to Bin Laden</titulo>
+    <autor></autor>
+    <lugar>Princeton ; Oxford :</lugar>
+    <editor>Princeton University Press</editor>
+    <fecha>2009.</fecha>
+    <isbn>9780691135885; 0691135886</isbn>
+    <cdu>
+      <num>28-832:32</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>28:[1+3] princeto</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845398504201">
+    <id>9917845398504201</id>
+    <iep>21164676910004201</iep>
+    <titulo>Psellos and the patriarchs : letters and funeral orations for Keroullarios, Leichoudes, and Xiphilinos</titulo>
+    <autor>Psellus, Michael.</autor>
+    <lugar>Notre Dame (Indiana) :</lugar>
+    <editor>University of Notre Dame Press</editor>
+    <fecha>2015.</fecha>
+    <isbn>9780268033286; 0268033285</isbn>
+    <cdu>
+      <num>821.14 Psellos</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.14 Psellos PSELLUSM psellosa</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917846997604201">
+    <id>9917846997604201</id>
+    <iep>21164976900004201</iep>
+    <titulo>Publicaciones de la Dirección General de Ganadería e Industrias Pecuarias : sección de labor social : II concurso de construcciones rurales</titulo>
+    <autor></autor>
+    <lugar>Madrid :</lugar>
+    <editor>Ministerio de Agricultura Industria y Comercio</editor>
+    <fecha>[1933].</fecha>
+    <isbn></isbn>
+    <cdu/>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Legados</col>
+        <sig>BC RM F/2789</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849396904201">
+    <id>9917849396904201</id>
+    <iep>21165346930004201</iep>
+    <titulo>Rafols Casamada</titulo>
+    <autor>Cirlot, Juan-Eduardo.</autor>
+    <lugar>[Madrid] :</lugar>
+    <editor>Editora Nacional</editor>
+    <fecha>D.L. 1961.</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>75 Rafols Casamada, Alberto</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Folletos</col>
+        <sig>FOL/384747</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845399204201">
+    <id>9917845399204201</id>
+    <iep>21164677310004201</iep>
+    <titulo>Reading Old Testament narrative  as christian scrpture</titulo>
+    <autor>Earl, Douglas S.</autor>
+    <lugar>Winona Lake (Indiana) :</lugar>
+    <editor>Eisenbrauns</editor>
+    <fecha>2017.</fecha>
+    <isbn>9781575067582; 1575067587</isbn>
+    <cdu>
+      <num>27-275</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>2 Biblia EARLDOUG readingo</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845398104201">
+    <id>9917845398104201</id>
+    <iep>21164676390004201</iep>
+    <titulo>Relato sobre la toma de Constantinopla</titulo>
+    <autor>Iskánder, Néstor</autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2003.</fecha>
+    <isbn>8495905051; 9788495905055</isbn>
+    <cdu>
+      <num>94(495)"14"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(4)"04/14" ISKANDER relatoso</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845897504201">
+    <id>9917845897504201</id>
+    <iep>21164736330004201</iep>
+    <titulo>Resurrection : a guide for the perplexed</titulo>
+    <autor>Novakovic, Lidija</autor>
+    <lugar>London ;</lugar>
+    <editor>Bloomsbury</editor>
+    <fecha>2016.</fecha>
+    <isbn>9780567629814; 0567629813; 9780567028150; 0567028151</isbn>
+    <cdu>
+      <num>27-31:2-187.6</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>27-3 Jesucristo NOVAKOVI resurrec</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849499904201">
+    <id>9917849499904201</id>
+    <iep>21165377770004201</iep>
+    <titulo>Rojas : pintura escultura</titulo>
+    <autor>Rojas, Francisco (1942-)</autor>
+    <lugar>[Toledo] :</lugar>
+    <editor>Grupo de Empresas Sánchez Infante</editor>
+    <fecha>imp. 1987.</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>75 Rojas, Francisco</num>
+      <num>73 Rojas, Francisco</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>7"18/..." ROJASFRA rojaspin</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917851599904201">
+    <id>9917851599904201</id>
+    <iep>21165817700004201</iep>
+    <titulo>Rural lives and landscapes in late Byzantium : art, archaeology, and ethnography</titulo>
+    <autor>Gerstel, Sharon E. J.</autor>
+    <lugar>New York :</lugar>
+    <editor>Cambridge University Press</editor>
+    <fecha>2015.</fecha>
+    <isbn>9780521851596; 0521851599</isbn>
+    <cdu>
+      <num>94(495:56)"04/14":39</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Grandes formatos</col>
+        <sig>GRA/58116</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845896204201">
+    <id>9917845896204201</id>
+    <iep>21164736110004201</iep>
+    <titulo>Scepticisme, clandestinité et libre pensée = Scepticism, clandestinity and free-thinking : Actes des tables rondes organisées à Dublin dans le cadre du Congrès des Lumières (Tenth International Congress on the Enlightenment) 26-27 juillet 1999</titulo>
+    <autor></autor>
+    <lugar>Paris :</lugar>
+    <editor>Honoré Champion</editor>
+    <fecha>2002.</fecha>
+    <isbn>2745305514; 9782745305510</isbn>
+    <cdu/>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig></sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844998204201">
+    <id>9917844998204201</id>
+    <iep>21164577160004201</iep>
+    <titulo>Science and the life-world : essays on Husserl's "Crisis of european sciences"</titulo>
+    <autor></autor>
+    <lugar>Stanford (California) :</lugar>
+    <editor>Stanford University Press</editor>
+    <fecha>2010.</fecha>
+    <isbn>9780804756044; 080475604X</isbn>
+    <cdu>
+      <num>165.62</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>1"18/..." Husserl.0 sciencea</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844400004201">
+    <id>9917844400004201</id>
+    <iep>21164477780004201</iep>
+    <titulo>Science in the marketplace : nineteenth-century sites and experiences</titulo>
+    <autor></autor>
+    <lugar>Chicago ; London :</lugar>
+    <editor>The University of Chicago Press</editor>
+    <fecha>2007.</fecha>
+    <isbn>9780226276502; 0226276503</isbn>
+    <cdu>
+      <num>1:5/6</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>1:5/6 sciencei</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849999404201">
+    <id>9917849999404201</id>
+    <iep>21165407560004201</iep>
+    <titulo>Scrigni della memoria : arquivos e fundos documentais para o estudo das relações luso-italianas</titulo>
+    <autor></autor>
+    <lugar>Lisboa :</lugar>
+    <editor>Catedra de Estudos Sefarditas "Alberto Benveniste"</editor>
+    <fecha>2016.</fecha>
+    <isbn>9789899962514; 9899962511</isbn>
+    <cdu>
+      <num>002:930.25</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>002:930.25 scrignid</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849998304201">
+    <id>9917849998304201</id>
+    <iep>21165407060004201</iep>
+    <titulo>Sefer Assaf : qobeṣ maamre meḥqar : mugaš li-kebod ha-Rav Prof. Śimḥá Assaf ʿal yedé yedidaṿ ḥaberaṿ ṿe-talmidaṿ li-melot lo shishim shanah</titulo>
+    <autor></autor>
+    <lugar>Yerushalayim :</lugar>
+    <editor>Mosad ha-Rav Ḳuḳ</editor>
+    <fecha>5713 [1952 o 1953].</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>26(082)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>SXX</col>
+        <sig>SXX/56526</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917851099804201">
+    <id>9917851099804201</id>
+    <iep>21165687830004201</iep>
+    <titulo>Sefer Minḥat ha-Ḥag : hineh heveti et minḥati Minḥat ha-Ḥag mi-shʼelot u-teshuvot ʻal arbaʻ ḥelḳe Shu. ʻa. ...</titulo>
+    <autor>Ḥananya, Gabriel</autor>
+    <lugar>Yerushalayim :</lugar>
+    <editor>Bi-siuʻa Mosad ha-Rav Ḳuḳ she-ʻa y ha-Mizraḥi ha-ʻolami</editor>
+    <fecha>702-708 [1941 or 1942-1948].</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>26-74:348.9</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>SXX</col>
+        <sig>SXX/56527</sig>
+        <des>Vol. 2</des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849997704201">
+    <id>9917849997704201</id>
+    <iep>21165406790004201</iep>
+    <titulo>Sefer ha-Zohar : ʿal ḥamishah ḥumshe Torah</titulo>
+    <autor></autor>
+    <lugar>Yerushalayim :</lugar>
+    <editor>Aḥuzat Yiśraʼel</editor>
+    <fecha>722-&lt;[752] &gt; [1962-&lt;1991 or 1992 &gt;].</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>26-587</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Grandes formatos</col>
+        <sig>GRA/58111</sig>
+        <des>Vol. 1</des>
+      </ejem>
+      <ejem>
+        <mat>Active</mat>
+        <col>Grandes formatos</col>
+        <sig>GRA/58112</sig>
+        <des>Vol. 4</des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844497904201">
+    <id>9917844497904201</id>
+    <iep>21164497190004201</iep>
+    <titulo>Ser madre a los 40 : (y más allá) : lo que hay que saber</titulo>
+    <autor></autor>
+    <lugar>Barcelona :</lugar>
+    <editor>Grijalbo</editor>
+    <fecha>2018.</fecha>
+    <isbn>9788416895267; 8416895260</isbn>
+    <cdu>
+      <num>305-055.2:618.2-053.85-055.2</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>305-055.2 sermadre</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="990017373250204201">
+    <id>990017373250204201</id>
+    <iep>21129681310004201</iep>
+    <titulo>Serie de literatura "Miguel Artigas" : m</titulo>
+    <autor>Carballo Calderón, Antonio</autor>
+    <lugar>Calamocha (Teruel): :</lugar>
+    <editor>Ayuntamiento de Monreal del Campo; Centro de Estudios del Jiloca</editor>
+    <fecha>D:L. 2013.</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>821.134.2"18/..."</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.134.2"18/..." seriedel</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845399604201">
+    <id>9917845399604201</id>
+    <iep>21164677490004201</iep>
+    <titulo>Sexuality and the unnatural in colonial Latin America</titulo>
+    <autor></autor>
+    <lugar>Oakland (California) :</lugar>
+    <editor>University of California Press</editor>
+    <fecha>2016.</fecha>
+    <isbn>9780520288140; 0520288149</isbn>
+    <cdu>
+      <num>316.367(8)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>39(7/8) sexualit</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917851000304201">
+    <id>9917851000304201</id>
+    <iep>21165667960004201</iep>
+    <titulo>Shehrezada : poema dramático en siete cuadros</titulo>
+    <autor>Hakim, Tawfiq al-.</autor>
+    <lugar>Madrid :</lugar>
+    <editor>Instituto Egipcio de Estudios Islamicos</editor>
+    <fecha>D.L. 2017.</fecha>
+    <isbn>9788494811616; 8494811614</isbn>
+    <cdu>
+      <num>821.411.21(620)-23"19"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.411.21 Hakim KAKIMTAW shehreza</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845400104201">
+    <id>9917845400104201</id>
+    <iep>21164677790004201</iep>
+    <titulo>Shifting boundaries of public health : Europe in the twentieth century</titulo>
+    <autor></autor>
+    <lugar>Rochester :</lugar>
+    <editor>University of Rochester Press</editor>
+    <fecha>2013.</fecha>
+    <isbn>9781580464550; 1580464556</isbn>
+    <cdu>
+      <num>364:61(4)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>61:3 shifting</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849999504201">
+    <id>9917849999504201</id>
+    <iep>21165407650004201</iep>
+    <titulo>Sistematización de los ritos usados en las ceremonias populares : conferencia pronunciada en el salón de la Filarmónica de Bilbao, el día 13 de diciembre de 1919, en la inauguración de los cursos de metodología y alta cultura organizados por la Sociedad de Estudios Vascos y repetida el 17 de marzo de 1920, en el Ateneo de Madrid</titulo>
+    <autor>Frankowski, Eugeniusz.</autor>
+    <lugar>[San Sebastián] :</lugar>
+    <editor>Eusko Ikaskuntza = Sociedad de Estudios Vascos</editor>
+    <fecha>[192?].</fecha>
+    <isbn></isbn>
+    <cdu/>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Legados</col>
+        <sig>BC RM F/2831</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845795104201">
+    <id>9917845795104201</id>
+    <iep>21164725920004201</iep>
+    <titulo>Six legs better : a cultural history of myrmecology</titulo>
+    <autor>Sleigh, Charlotte</autor>
+    <lugar>Baltimore :</lugar>
+    <editor>The Johns Hopkins University Press</editor>
+    <fecha>2006.</fecha>
+    <isbn>9780801884450; 0801884454</isbn>
+    <cdu>
+      <num>595.796(091)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>57/59(091) SLEIGHCH sixlegsb</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845400304201">
+    <id>9917845400304201</id>
+    <iep>21164677980004201</iep>
+    <titulo>Slaves of one master : globalization and slavery in Arabia in the age of empire</titulo>
+    <autor>Hopper, Matthew S.</autor>
+    <lugar>New Haven ; London :</lugar>
+    <editor>Yale University Press</editor>
+    <fecha>cop. 2015.</fecha>
+    <isbn>9780300192018; 0300192010</isbn>
+    <cdu>
+      <num>326(091)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>326 HOPPERMA slavesof</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917846498104201">
+    <id>9917846498104201</id>
+    <iep>21164877320004201</iep>
+    <titulo>Sonatinen für pianoforte solo, op. 36, 37, 38</titulo>
+    <autor>Clementi, Muzio.</autor>
+    <lugar>Leipzig :</lugar>
+    <editor>CF Peters</editor>
+    <fecha>[entre 1840 y 1886]</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>78.082.3</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Impresos del siglo XIX (1831-1900)</col>
+        <sig>SXIX/298820</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849996504201">
+    <id>9917849996504201</id>
+    <iep>21165406280004201</iep>
+    <titulo>Sumerian literary and historical inscriptions</titulo>
+    <autor>Hallo, William W.</autor>
+    <lugar>New Haven :</lugar>
+    <editor>Yale University Press</editor>
+    <fecha>cop. 2018.</fecha>
+    <isbn>9780300230765; 0300230761</isbn>
+    <cdu>
+      <num>821.341.1:930.271</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Grandes formatos</col>
+        <sig>GRA/58113</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845399004201">
+    <id>9917845399004201</id>
+    <iep>21164677260004201</iep>
+    <titulo>Summer farms : seasonal exploitation of the uplands from prehistory to the present</titulo>
+    <autor></autor>
+    <lugar>Sheffield :</lugar>
+    <editor>JR Collis Publications</editor>
+    <fecha>2017.</fecha>
+    <isbn>9780906090565; 0906090563</isbn>
+    <cdu>
+      <num>631"634"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>631(091) summerfa</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845896804201">
+    <id>9917845896804201</id>
+    <iep>21164736230004201</iep>
+    <titulo>Supplement to the Akkadian Dictionaries</titulo>
+    <autor>Streck, Michael P.</autor>
+    <lugar>Wiesbaden :</lugar>
+    <editor>Harrassowitz</editor>
+    <fecha>2018-.</fecha>
+    <isbn>9783447109789; 3447109785</isbn>
+    <cdu>
+      <num>(038)=411.11</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Obras de referencia</col>
+        <sig>(038)=41 STR sup</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917851098704201">
+    <id>9917851098704201</id>
+    <iep>21165687440004201</iep>
+    <titulo>Šeluḥé Ereṣ Yisrael : toldot ha-šeliḥut me-ha-areṣ la-golá : me-ḥurbán bait šení ʻad ha-meá hat-tešaʻ ʻesré</titulo>
+    <autor>Yaari, Abraham</autor>
+    <lugar>Yerushalayim :</lugar>
+    <editor>Mosad ha-Rav Kuk</editor>
+    <fecha>5711 [1950 o1951].</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>94(569.4=411.16)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>SXX</col>
+        <sig>SXX/56528</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917851100304201">
+    <id>9917851100304201</id>
+    <iep>21165687980004201</iep>
+    <titulo>Tallats de lluna</titulo>
+    <autor>Bordoy i Pomar, Rafel</autor>
+    <lugar>Palma [de Mallorca] :</lugar>
+    <editor>Universitat de les Illes Balears Servei de Publicacions i Intercanvi Científic</editor>
+    <fecha>2007.</fecha>
+    <isbn>9788476329931; 8476329938</isbn>
+    <cdu>
+      <num>821.134.1-14"19"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Folletos</col>
+        <sig>FOL/384761</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845399304201">
+    <id>9917845399304201</id>
+    <iep>21164677400004201</iep>
+    <titulo>The Byzantine dark ages</titulo>
+    <autor>Decker, Michael J.</autor>
+    <lugar>London [etc.] :</lugar>
+    <editor>Bloomsbury Academic</editor>
+    <fecha>2016.</fecha>
+    <isbn>9781472536037; 1472536037</isbn>
+    <cdu>
+      <num>94(495)"0527/1081"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(4)"04/14" DECKERMI byzantin</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="990017286050204201">
+    <id>990017286050204201</id>
+    <iep>21143151870004201</iep>
+    <titulo>The Hebrew Bible</titulo>
+    <autor></autor>
+    <lugar>Leiden ;</lugar>
+    <editor>Brill</editor>
+    <fecha>2016.</fecha>
+    <isbn>9789004337107; 9004337105; 9789004231818; 9004231811; 9789004337114; 9004337113</isbn>
+    <cdu>
+      <num>26-242</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>2 Biblia hebrewbi V.1C</sig>
+        <des>Vol. 1C</des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845895704201">
+    <id>9917845895704201</id>
+    <iep>21164735980004201</iep>
+    <titulo>The Neo-Babylonian Records from Ur from the Hall Collection of the British Museum</titulo>
+    <autor></autor>
+    <lugar>Münster :</lugar>
+    <editor>Zaphon</editor>
+    <fecha>2018.</fecha>
+    <isbn>9783963270222; 3963270225</isbn>
+    <cdu/>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig></sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844399904201">
+    <id>9917844399904201</id>
+    <iep>21164477660004201</iep>
+    <titulo>The Oxford handbook of neo-latin</titulo>
+    <autor></autor>
+    <lugar>New York :</lugar>
+    <editor>Oxford University Press</editor>
+    <fecha>2015.</fecha>
+    <isbn>9780199948178; 0199948178</isbn>
+    <cdu>
+      <num>821.13.09</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.13.0 oxfordha</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917847600204201">
+    <id>9917847600204201</id>
+    <iep>21165037940004201</iep>
+    <titulo>The Raven King : Matthias Corvinus and the fate of his lost library</titulo>
+    <autor>Tanner, Marcus</autor>
+    <lugar>New Haven :</lugar>
+    <editor>Yale University Press</editor>
+    <fecha>2009.</fecha>
+    <isbn>9780300158281; 0300158289</isbn>
+    <cdu>
+      <num>94(439)"1458/1490"</num>
+      <num>929Matthias I, Rey de Hungría</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(4)"15/17" TANNERMA ravenkin</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844997704201">
+    <id>9917844997704201</id>
+    <iep>21164576920004201</iep>
+    <titulo>The act itself</titulo>
+    <autor>Bennett, Jonathan.</autor>
+    <lugar>Oxford :</lugar>
+    <editor>Clarendon Press</editor>
+    <fecha>2007.</fecha>
+    <isbn>9780198237914; 019823791X</isbn>
+    <cdu>
+      <num>17.036</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>17 BENNETTJ actitsel</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845798604201">
+    <id>9917845798604201</id>
+    <iep>21164727320004201</iep>
+    <titulo>The argumentative Indian : writings on Indian history, culture and identity</titulo>
+    <autor>Sen, Amartya (1933-).</autor>
+    <lugar>London :</lugar>
+    <editor>Penguin Books</editor>
+    <fecha>2006.</fecha>
+    <isbn>9780141012117; 0141012110</isbn>
+    <cdu>
+      <num>930.85(540)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(5) SENAMART argument</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845897404201">
+    <id>9917845897404201</id>
+    <iep>21164736300004201</iep>
+    <titulo>The body in religion : cross-cultural perspectives</titulo>
+    <autor>Greenberg, Yudit Kornberg</autor>
+    <lugar>New York :</lugar>
+    <editor>Bloomsbury</editor>
+    <fecha>2018.</fecha>
+    <isbn>9781472595041; 1472595041; 9781472595034; 1472595033</isbn>
+    <cdu>
+      <num>2-18</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>2-1 GREENBER bodyinre</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844997004201">
+    <id>9917844997004201</id>
+    <iep>21164576570004201</iep>
+    <titulo>The challenge of affluence : self-control and well-being in the United States and Britain since 1950</titulo>
+    <autor>Offer, Avner.</autor>
+    <lugar>Oxford :</lugar>
+    <editor>Oxford University Press</editor>
+    <fecha>2011.</fecha>
+    <isbn>9780199216628; 0199216622</isbn>
+    <cdu>
+      <num>330.34(73:410)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>33 OFFERAVN challeng</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917847399204201">
+    <id>9917847399204201</id>
+    <iep>21165047500004201</iep>
+    <titulo>The city of Ebla : a complete bibliography of its archaeological and textual remains</titulo>
+    <autor>Scarpa, Erica</autor>
+    <lugar>Venezia :</lugar>
+    <editor>Edizioni Ca' Foscari - Digital Publishing</editor>
+    <fecha>2017.</fecha>
+    <isbn>9788875434366; 8875434360</isbn>
+    <cdu>
+      <num>016:94(569.1)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Obras de referencia</col>
+        <sig>(01)94c SCA cit</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845798804201">
+    <id>9917845798804201</id>
+    <iep>21164727410004201</iep>
+    <titulo>The country where my heart is : historical archaeologies of nationalism and national identity</titulo>
+    <autor></autor>
+    <lugar>Gainesville [etc.] :</lugar>
+    <editor>University Press of Florida</editor>
+    <fecha>cop. 2017.</fecha>
+    <isbn>9780813054339; 0813054338</isbn>
+    <cdu>
+      <num>902:32</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>902 countryw</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844999304201">
+    <id>9917844999304201</id>
+    <iep>21164577420004201</iep>
+    <titulo>The end of progress : decolonizing the normative foundations of critical theory</titulo>
+    <autor>Allen, Amy.</autor>
+    <lugar>New York :</lugar>
+    <editor>Columbia University Press</editor>
+    <fecha>2017.</fecha>
+    <isbn>9780231173254; 0231173253</isbn>
+    <cdu>
+      <num>316.257</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>316 ALLENAMY endofpro</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845799904201">
+    <id>9917845799904201</id>
+    <iep>21164727850004201</iep>
+    <titulo>The experiential Caribbean : creating konwledge and healing in the early modern Atlantic</titulo>
+    <autor>Gómez, Pablo F.</autor>
+    <lugar>Chaper Hill :</lugar>
+    <editor>The University of North Carolina Press</editor>
+    <fecha>2017.</fecha>
+    <isbn>9781469630878; 1469630877</isbn>
+    <cdu>
+      <num>614.29:39(728/729)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>39(7/8) GOMEZPAB experien</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844999204201">
+    <id>9917844999204201</id>
+    <iep>21164577350004201</iep>
+    <titulo>The great partition : the making of India and Pakistan : new edition</titulo>
+    <autor>Khan, Yasmin</autor>
+    <lugar>New Haven ; London :</lugar>
+    <editor>Yale University Press</editor>
+    <fecha>cop. 2017.</fecha>
+    <isbn>9780300230321; 030023032X</isbn>
+    <cdu>
+      <num>954.0""17/19"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(5) KHANYASM greatpar</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917850998504201">
+    <id>9917850998504201</id>
+    <iep>21165666820004201</iep>
+    <titulo>The history of the jews of Krakow : Sources from the collection of the National Archives in Krakow = Dzieje krakowskich zydow na przestrzeni wieków : materialy z zasobów Archiwun Narodowego w Krakowie</titulo>
+    <autor></autor>
+    <lugar>Kraków :</lugar>
+    <editor>Archiwum Narodowe w Krakowie</editor>
+    <fecha>[2018].</fecha>
+    <isbn>9788394974725; 8394974724</isbn>
+    <cdu>
+      <num>94(=411.16:438.31)(093)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(=411.16) historyo</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849799304201">
+    <id>9917849799304201</id>
+    <iep>21165417210004201</iep>
+    <titulo>The letters of Theodoros Hyrtakenos : greek text, translation, and commentary</titulo>
+    <autor>Theodoros Hyrtakenos ca. 13./14.</autor>
+    <lugar>Athens :</lugar>
+    <editor>Kanakis publishers</editor>
+    <fecha>2017.</fecha>
+    <isbn>9789606736223; 9606736229</isbn>
+    <cdu>
+      <num>821.14´02</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.14 THEODORO letterso</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844395604201">
+    <id>9917844395604201</id>
+    <iep>21164476000004201</iep>
+    <titulo>The meaning of housing : a pathways approach</titulo>
+    <autor>Clapham, David</autor>
+    <lugar>Bristol :</lugar>
+    <editor>Policy Press</editor>
+    <fecha>2005.</fecha>
+    <isbn>9781861346377; 1861346379</isbn>
+    <cdu>
+      <num>316.334.54</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>316 CLAPHAMD meaningo</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845795404201">
+    <id>9917845795404201</id>
+    <iep>21164726000004201</iep>
+    <titulo>The middle path of moderation in Islam : the Qur'anic principle of wasatiyyah</titulo>
+    <autor>Kamali, Mohammad Hashim.</autor>
+    <lugar>New York :</lugar>
+    <editor>Oxford University Press</editor>
+    <fecha>2015.</fecha>
+    <isbn>9780190226831; 0190226838</isbn>
+    <cdu>
+      <num>28-852-2</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>28:[1+3] KAMALIMO middlepa</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845396804201">
+    <id>9917845396804201</id>
+    <iep>21164675760004201</iep>
+    <titulo>The morbid age : Britain and the crisis of civilization</titulo>
+    <autor>Overy, Richard.</autor>
+    <lugar>London :</lugar>
+    <editor>Penguin Books</editor>
+    <fecha>2010.</fecha>
+    <isbn>9780141003252; 0141003251</isbn>
+    <cdu>
+      <num>930.85(410)"19"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>94(4)"18/..." OVERYRIC morbidag</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845799204201">
+    <id>9917845799204201</id>
+    <iep>21164727240004201</iep>
+    <titulo>The oxyrhynchus papyri : volume LXXXI</titulo>
+    <autor></autor>
+    <lugar>London :</lugar>
+    <editor>The Egypt Exploration Society</editor>
+    <fecha>2016.</fecha>
+    <isbn>9780856982293; 0856982296</isbn>
+    <cdu>
+      <num>821.14-035.27 POxy.</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Sala de Griego Antiguo</col>
+        <sig>POxy.-81</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845397304201">
+    <id>9917845397304201</id>
+    <iep>21164675950004201</iep>
+    <titulo>The power paradox : how we gain and lose influence</titulo>
+    <autor>Keltner, Dacher.</autor>
+    <lugar>New York :</lugar>
+    <editor>Penguin Press</editor>
+    <fecha>2016.</fecha>
+    <isbn>9781594205248; 1594205248</isbn>
+    <cdu>
+      <num>321.01</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>1:32 KELTNERD powerpar</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845398304201">
+    <id>9917845398304201</id>
+    <iep>21164676860004201</iep>
+    <titulo>The sub-loco notes in the former prophets of Biblia Hebraica Stuttgartensia</titulo>
+    <autor>Dost, Christopher</autor>
+    <lugar>Piscataway (New Jersey) :</lugar>
+    <editor>Gorgias Press</editor>
+    <fecha>2016.</fecha>
+    <isbn>9781463205317; 1463205317</isbn>
+    <cdu>
+      <num>27-275</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>2 Biblia DOSTCHRI sublocon</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844999004201">
+    <id>9917844999004201</id>
+    <iep>21164577320004201</iep>
+    <titulo>The tablets from the temple precinct at Nuzi</titulo>
+    <autor>Lion, Brigitte.</autor>
+    <lugar>Bethesda (Maryland) :</lugar>
+    <editor>CDL Press</editor>
+    <fecha>2016.</fecha>
+    <isbn>9781934309674; 1934309672</isbn>
+    <cdu>
+      <num>811.411.11(0.023.36)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Grandes formatos</col>
+        <sig>GRA/58101</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917848600104201">
+    <id>9917848600104201</id>
+    <iep>21165187960004201</iep>
+    <titulo>The theology of arithmetic : number symbolism in Platonism and early Christianity</titulo>
+    <autor>Kalvesmaki, Joel.</autor>
+    <lugar>Washington, D.C. :</lugar>
+    <editor>Center for Hellenic Studies</editor>
+    <fecha>2013.</fecha>
+    <isbn>9780674073302; 0674073304</isbn>
+    <cdu>
+      <num>27-135:1".../03"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>2-1 KALVESMA theology</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917847600104201">
+    <id>9917847600104201</id>
+    <iep>21165037900004201</iep>
+    <titulo>The urban and regional planning reader</titulo>
+    <autor></autor>
+    <lugar>London :</lugar>
+    <editor>Routledge</editor>
+    <fecha>2009.</fecha>
+    <isbn>9780415319980; 0415319986</isbn>
+    <cdu>
+      <num>711.4 (7/8)</num>
+      <num>911.375(7/8)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>911.375(7/8) urbanand</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845795604201">
+    <id>9917845795604201</id>
+    <iep>21164726030004201</iep>
+    <titulo>Thinking about the Torah : a philosopher reads the Bible</titulo>
+    <autor>Seeskin, Kenneth, 1947-</autor>
+    <lugar>Philadelphia :</lugar>
+    <editor>The Jewish Publication Society</editor>
+    <fecha>2016.</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>27-275</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>2 Biblia SEESKINK thinking</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845796404201">
+    <id>9917845796404201</id>
+    <iep>21164726370004201</iep>
+    <titulo>To die in Cuba : suicide and society</titulo>
+    <autor>Pérez, Louis A.</autor>
+    <lugar>Chapel Hill ; London :</lugar>
+    <editor>The University of North Carolina Press</editor>
+    <fecha>2005.</fecha>
+    <isbn>9780807858165; 0807858161</isbn>
+    <cdu>
+      <num>394.86(729.1)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>39(7/8) PEREZLOU todieinc</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849397204201">
+    <id>9917849397204201</id>
+    <iep>21165347020004201</iep>
+    <titulo>Torres Monsó</titulo>
+    <autor>Castillo, Alberto del (1899-1976).</autor>
+    <lugar>[Madrid] :</lugar>
+    <editor>Editora Nacional</editor>
+    <fecha>D.L. 1961.</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>73 Torres Monsó, Francisco</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Folletos</col>
+        <sig>FOL/384744</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917847999504201">
+    <id>9917847999504201</id>
+    <iep>21165137690004201</iep>
+    <titulo>Troballes---</titulo>
+    <autor>Prat, Toni</autor>
+    <lugar>Navarrés (Valencia) :</lugar>
+    <editor>Babilonia</editor>
+    <fecha>2014.</fecha>
+    <isbn>9788494176401; 8494176404</isbn>
+    <cdu>
+      <num>77.04 Prat, Toni</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Folletos</col>
+        <sig>FOL/384726</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844395704201">
+    <id>9917844395704201</id>
+    <iep>21164476030004201</iep>
+    <titulo>Twenty chapters  = 'Ishr'un maqala</titulo>
+    <autor>Muqammis, Dawud b. Marwan al</autor>
+    <lugar>Provo (Utah) :</lugar>
+    <editor>Brigham Young University Press</editor>
+    <fecha>2016.</fecha>
+    <isbn>9780842529969; 0842529969</isbn>
+    <cdu>
+      <num>821.411.16</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.411.16 MUQAMMIS twentych</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="990017447870204201">
+    <id>990017447870204201</id>
+    <iep>21131524750004201</iep>
+    <titulo>VIII edición Premios Fundación BBVA Fronteras del Conocimiento = BBVA Foundation Frontiers of Knowledge Awards, 8th edition.</titulo>
+    <autor>Fundación BBVA.</autor>
+    <lugar>Bilbao :</lugar>
+    <editor>Fundación BBVA</editor>
+    <fecha>D.L. 2016.</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>001.891</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Grandes formatos</col>
+        <sig>GRA/58105</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844999504201">
+    <id>9917844999504201</id>
+    <iep>21164577450004201</iep>
+    <titulo>Valuing freedoms : sen's capability approach and poverty reduction</titulo>
+    <autor>Alkire, Sabina</autor>
+    <lugar>Oxford :</lugar>
+    <editor>Oxford University Press</editor>
+    <fecha>2008.</fecha>
+    <isbn>9780199283316; 0199283311</isbn>
+    <cdu>
+      <num>330.831.4(100-773)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>33 ALKIRESA valuingf</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849798504201">
+    <id>9917849798504201</id>
+    <iep>21165416430004201</iep>
+    <titulo>Ventura Rodríguez : el poder del dibujo</titulo>
+    <autor>Ortega Vidal, Javier.</autor>
+    <lugar>[Madrid] :</lugar>
+    <editor>Dirección General de Patrimonio Cultural</editor>
+    <fecha>D.L. 2018.</fecha>
+    <isbn>9788445136997; 8445136992</isbn>
+    <cdu>
+      <num>72 Rodríguez, Ventura (083.824)</num>
+      <num>72.012(083.824)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>7 Rodríguez ORTEGAVI venturar</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917846900204201">
+    <id>9917846900204201</id>
+    <iep>21164967960004201</iep>
+    <titulo>Versos del gramático señor Teodoro Pródromo el Pobre : o Poemas ptocoprodrómicos</titulo>
+    <autor>Pródromo, Teodoro.</autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2001.</fecha>
+    <isbn>8495905000; 9788495905000</isbn>
+    <cdu>
+      <num>821.14'04-17"11"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.14.0 PRODROMO versosde</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917850998604201">
+    <id>9917850998604201</id>
+    <iep>21165666940004201</iep>
+    <titulo>Vigilant powers : three churches of early medieval Armenia</titulo>
+    <autor>Maranci, Christina (1968-)</autor>
+    <lugar>Turnhout, Belgium :</lugar>
+    <editor>Brepols</editor>
+    <fecha>cop. 2015.</fecha>
+    <isbn>9782503549002; 2503549004</isbn>
+    <cdu>
+      <num>726(479.25)"04/14"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>7"04/14" MARANCIC vigilant</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917849398604201">
+    <id>9917849398604201</id>
+    <iep>21165347410004201</iep>
+    <titulo>Viola</titulo>
+    <autor></autor>
+    <lugar>[Madrid] :</lugar>
+    <editor>Editora Nacional</editor>
+    <fecha>D.L. 1961.</fecha>
+    <isbn></isbn>
+    <cdu>
+      <num>75 Viola, Manuel</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Folletos</col>
+        <sig>FOL/384738</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845799404201">
+    <id>9917845799404201</id>
+    <iep>21164727630004201</iep>
+    <titulo>Working cures : healing, health, and power on southern slave plantations</titulo>
+    <autor>Fett, Sharla M.</autor>
+    <lugar>Chapel Hill ; London :</lugar>
+    <editor>The University of North Carolina Press</editor>
+    <fecha>2002.</fecha>
+    <isbn>9780807853788; 080785378X</isbn>
+    <cdu>
+      <num>326(73)(091)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>326 FETTSHAR workingc</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844999804201">
+    <id>9917844999804201</id>
+    <iep>21164577590004201</iep>
+    <titulo>Worlds made by words : scholarship an community in the modern West</titulo>
+    <autor>Grafton, Anthony.</autor>
+    <lugar>Cambridge ; London :</lugar>
+    <editor>Harvard University Press</editor>
+    <fecha>2009.</fecha>
+    <isbn>9780674060258; 0674060253</isbn>
+    <cdu>
+      <num>930.85(4:73)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>130.2 GRAFTONA worldsma</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917845797804201">
+    <id>9917845797804201</id>
+    <iep>21164727060004201</iep>
+    <titulo>¡Venceremos? : the erotics of black self-making in Cuba</titulo>
+    <autor></autor>
+    <lugar>Durham ; London :</lugar>
+    <editor>Duke University Press</editor>
+    <fecha>2011.</fecha>
+    <isbn>9780822349501; 0822349507</isbn>
+    <cdu>
+      <num>613.885(729.1)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>316(7/8) ALLENJAF vencerem</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="990016588640204201">
+    <id>990016588640204201</id>
+    <iep>21136081910004201</iep>
+    <titulo>À la place du roi : vice-rois, gouverneurs et ambassadeurs dans les monarchies française et espagnole (XVIe-XVIIIe siècles)</titulo>
+    <autor></autor>
+    <lugar>Madrid :</lugar>
+    <editor>Casa de Velázquez</editor>
+    <fecha>2014.</fecha>
+    <isbn>9788496820944; 8496820947</isbn>
+    <cdu>
+      <num>94(44:460)"15/16"</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Series editoriales</col>
+        <sig>gen_geo COL CAS 144</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844999104201">
+    <id>9917844999104201</id>
+    <iep>21164577140004201</iep>
+    <titulo>Ελληνο-ισπανικό λεξικό θρησκευτικών όρων = Diccionario griego-español de términos religiosos</titulo>
+    <autor>Papadopoulou, Panagiota.</autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2007.</fecha>
+    <isbn>9788495905215; 8495905213</isbn>
+    <cdu>
+      <num>271.2(038)=134.2=14</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Obras de referencia</col>
+        <sig>(038)27 PAP ell</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844999404201">
+    <id>9917844999404201</id>
+    <iep>21164577380004201</iep>
+    <titulo>Λεξικό φιλοσοφικóν όρων : ελληνο-ισπανικó, ισπανο-ελληνικο = Diccionario de términos filosóficos : griego moderno-español, español-griego moderno</titulo>
+    <autor>Vafeiadou, Eleni Anna</autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2014.</fecha>
+    <isbn>9788495905468; 8495905469</isbn>
+    <cdu>
+      <num>1(038)=811.134=811.14</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Obras de referencia</col>
+        <sig>(038)1 VAF lex</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844999704201">
+    <id>9917844999704201</id>
+    <iep>21164577480004201</iep>
+    <titulo>Λεξικό χλωρίδας : ελληνο-ισπανικό, ισπανο-ελληνικό = Diccionario de flora : griego-español, español-griego</titulo>
+    <autor>Tsifrikas, Markos Panayotis</autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2013.</fecha>
+    <isbn>9788495905437; 8495905434</isbn>
+    <cdu>
+      <num>581.9(038)=811.134=811.14</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Obras de referencia</col>
+        <sig>(038)5/6 TSI lex</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917844998004201">
+    <id>9917844998004201</id>
+    <iep>21164577040004201</iep>
+    <titulo>Λεξικό ιχθύων : ελληνο-ισπανικό, ισπανο-ελληνικό  = Diccionario de ictiología : griego-español, español-griego</titulo>
+    <autor>Egea, José María.</autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2008.</fecha>
+    <isbn>9788495905239; 849590523X</isbn>
+    <cdu>
+      <num>597(038)=134.2=14</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Obras de referencia</col>
+        <sig>(038)5/6 EGE lex</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917846899604201">
+    <id>9917846899604201</id>
+    <iep>21164967550004201</iep>
+    <titulo>Ο γενναιόδωρος ερωτευμένος</titulo>
+    <autor>Cervantes Saavedra, Miguel de (1547-1616).</autor>
+    <lugar>Granada :</lugar>
+    <editor>Centro de Estudios Bizantinos Neogriegos y Chipriotas</editor>
+    <fecha>2017.</fecha>
+    <isbn>9788495905819; 8495905817</isbn>
+    <cdu>
+      <num>821.134.2 Cervantes Saavedra, Miguel de 7.03=14´06</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Active</mat>
+        <col>Secciones temáticas</col>
+        <sig>821.134.2"15/17" Cer CERVANTE gennaiod</sig>
+        <des></des>
+      </ejem>
+    </holding>
+  </libro>
+</libros>
