@@ -46,6 +46,7 @@
                 lugar = libro.getElementsByTagName('lugar').item(0).innerHTML;
                 editor = libro.getElementsByTagName('editor').item(0).innerHTML;
                 fecha = libro.getElementsByTagName('fecha').item(0).innerHTML;
+                isbn = libro.getElementsByTagName('isbn').item(0).innerHTML;
                 var ejem = [];
                 var ej = libro.getElementsByTagName('ejem');
                 var ej = Array.from(ej);
@@ -57,7 +58,7 @@
                     ejem.push([signatura, descripcion, coleccion]); 
                 });
                  
-                var l = new Libro(iep, titulo, lugar, editor, fecha, ejem );
+                var l = new Libro(iep, titulo, lugar, editor, fecha, isbn, ejem );
                 libros.push(l);
                 libro = nodos.iterateNext();
             }
@@ -65,7 +66,9 @@
                 var htmlContent = '';
                 htmlContent = '<ul>' + libros.map(libro => 
                                 `<li class="article">
-                                    <h2><a href=${url}${libro.iep}${context}>${libro.titulo}</a></h2>
+                                    <h2>
+                                        <img src="https://proxy-eu.hosted.exlibrisgroup.com/exl_rewrite/syndetics.com/index.aspx?isbn=${libro.isbn}/SC.JPG&client=primo" width="80" height="110">
+                                        <a href=${url}${libro.iep}${context}>${libro.titulo}</a></h2>
                                         <p>${libro.lugar} ${libro.editor}, ${libro.fecha}</p>
                                             <ul>`+ libro.ejemplar.map(eje =>
                                             `<li><p><b>${eje[2]}</b> | <b>${eje[0]}</b> | <b>${eje[1]}</b></p></li>`).join('')+
