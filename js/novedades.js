@@ -2,6 +2,9 @@
     
     const url = 'https://csic-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=34CSIC_ALMA_DS';
     const context = '&context=L&vid=34CSIC_VU1&search_scope=CAT_BIB_scope&tab=default_tab&lang=es_ES';
+    const portadas = 'http://cobertes.csuc.cat/cobertes.php?institucio=CSIC&isbn='
+    const autorP = 'https://csic-primo.hosted.exlibrisgroup.com/primo-explore/search?query=creator,exact,'
+    const autorF = ',AND&tab=default_tab&search_scope=default_scope&sortby=rank&vid=34CSIC_VU1&lang=es_ES&mode=advanced&offset=0'
     const resultados = document.querySelector('#resultados');
     const menu = document.querySelector('#prueba');
 
@@ -43,6 +46,11 @@
             while (libro) {
                 iep = libro.getElementsByTagName('iep').item(0).innerHTML;
                 titulo = libro.getElementsByTagName('titulo').item(0).innerHTML;
+                autor = libro.getElementsByTagName('autor').item(0).innerHTML;
+                if(autor !== '') {
+                    autorU = encodeURI(autor)
+                    autor = `<b>Autor: </b>${autor} <a href=${autorP}${autorU}${autorF} target="_blank">(+)</a>`
+                }
                 lugar = libro.getElementsByTagName('lugar').item(0).innerHTML;
                 editor = libro.getElementsByTagName('editor').item(0).innerHTML;
                 fecha = libro.getElementsByTagName('fecha').item(0).innerHTML;
@@ -58,7 +66,7 @@
                     ejem.push([signatura, descripcion, coleccion]); 
                 });
                  
-                var l = new Libro(iep, titulo, lugar, editor, fecha, isbn, ejem );
+                var l = new Libro(iep, titulo, autor, lugar, editor, fecha, isbn, ejem );
                 libros.push(l);
                 libro = nodos.iterateNext();
             }
@@ -66,16 +74,17 @@
                 var htmlContent = '';
                 htmlContent = '<ul>' + libros.map(libro => 
                                 `<li class="article">
-                                    <h2>
-                                        <img src="https://proxy-eu.hosted.exlibrisgroup.com/exl_rewrite/syndetics.com/index.aspx?isbn=${libro.isbn}/SC.JPG&client=primo" width="80" height="110">
-                                        <a href=${url}${libro.iep}${context}>${libro.titulo}</a></h2>
-                                        <p>${libro.lugar} ${libro.editor}, ${libro.fecha}</p>
+                                    <img src="${portadas}${libro.isbn}" width="80" height="110">
+                                      <h2>
+                                        <a href=${url}${libro.iep}${context} target="_blank">${libro.titulo}</a></h2>
+                                        <p>${libro.autor}</p>
+                                        <p><b>Edición: </b>${libro.lugar} ${libro.editor}, ${libro.fecha}</p>
                                             <ul>`+ libro.ejemplar.map(eje =>
                                             `<li><p><b>${eje[2]}</b> | <b>${eje[0]}</b> | <b>${eje[1]}</b></p></li>`).join('')+
                                             '</ul>'+'</li>').join('')+'</ul>';
             } else {
                 var htmlContent = '';
-                htmlContent = '<div class="mensaje">ningún libro adquirido sobre esa materia en este mes</div>';
+                htmlContent = '<div class="mensaje">Ningún libro adquirido sobre esa materia en este mes</div>';
             }
             resultados.insertAdjacentHTML('beforeend', htmlContent);
 

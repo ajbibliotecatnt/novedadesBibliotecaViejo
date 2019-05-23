@@ -1,7 +1,8 @@
 class Libro {
-  constructor(iep, titulo, lugar, editor, fecha, isbn, ejemplar)  {
+  constructor(iep, titulo, autor, lugar, editor, fecha, isbn, ejemplar)  {
   this.iep = iep;
   this.titulo = titulo;
+  this.autor = autor;
   this.lugar = lugar;
   this.fecha = fecha;
   this.editor = editor;
