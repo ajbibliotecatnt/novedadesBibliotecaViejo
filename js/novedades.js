@@ -55,6 +55,7 @@
                 editor = libro.getElementsByTagName('editor').item(0).innerHTML;
                 fecha = libro.getElementsByTagName('fecha').item(0).innerHTML;
                 isbn = libro.getElementsByTagName('isbn').item(0).innerHTML;
+                isbn = isbn.split(';')[0]
                 var ejem = [];
                 var ej = libro.getElementsByTagName('ejem');
                 var ej = Array.from(ej);
