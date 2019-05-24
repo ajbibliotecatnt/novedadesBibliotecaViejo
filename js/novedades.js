@@ -56,6 +56,9 @@
                 fecha = libro.getElementsByTagName('fecha').item(0).innerHTML;
                 isbn = libro.getElementsByTagName('isbn').item(0).innerHTML;
                 isbn = isbn.split(';')[0]
+                if (isbn == '') {
+                    isbn = "9781111111111"
+                }
                 var ejem = [];
                 var ej = libro.getElementsByTagName('ejem');
                 var ej = Array.from(ej);

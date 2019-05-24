@@ -99,27 +99,6 @@
       </ejem>
     </holding>
   </libro>
-  <libro id="9917884000104201">
-    <id>9917884000104201</id>
-    <iep>21172827930004201</iep>
-    <titulo>A arte indo-portuguesa</titulo>
-    <autor>Cagigal e Silva, María Madalena</autor>
-    <lugar>Lisboa :</lugar>
-    <editor>Excelsior</editor>
-    <fecha>imp. 1966.</fecha>
-    <isbn></isbn>
-    <cdu>
-      <num>7(54:469)"16/17"</num>
-    </cdu>
-    <holding>
-      <ejem>
-        <mat>Book</mat>
-        <col>Secciones temáticas</col>
-        <sig>7"15/17" CAGIGALE arteindo</sig>
-        <des></des>
-      </ejem>
-    </holding>
-  </libro>
   <libro id="9917882497404201">
     <id>9917882497404201</id>
     <iep>21172526710004201</iep>
@@ -158,28 +137,6 @@
         <mat>Book</mat>
         <col>Series editoriales</col>
         <sig>80+82 LET 501</sig>
-        <des></des>
-      </ejem>
-    </holding>
-  </libro>
-  <libro id="9917882496904201">
-    <id>9917882496904201</id>
-    <iep>21172526290004201</iep>
-    <titulo>Alocuciones sobre derechos humanos : 40 aniversario de la Declaración universal de los derechos humanos</titulo>
-    <autor></autor>
-    <lugar>Madrid :</lugar>
-    <editor>Dirección General de Relaciones Culturales y Científicas</editor>
-    <fecha>D.L. 1989.</fecha>
-    <isbn>8485290763; 9788485290765</isbn>
-    <cdu>
-      <num>17:32</num>
-      <num>342.7</num>
-    </cdu>
-    <holding>
-      <ejem>
-        <mat>Book</mat>
-        <col>Secciones temáticas</col>
-        <sig>17:32 alocucio</sig>
         <des></des>
       </ejem>
     </holding>
@@ -287,31 +244,6 @@
       </ejem>
     </holding>
   </libro>
-  <libro id="9917882495804201">
-    <id>9917882495804201</id>
-    <iep>21172525960004201</iep>
-    <titulo>Atlas géographique renfermant les etablisemens des jesuites avec la maniére dont ils divisent le globe terrestre.</titulo>
-    <autor></autor>
-    <lugar>Paris :</lugar>
-    <editor>sn</editor>
-    <fecha>s.a.] (</fecha>
-    <isbn></isbn>
-    <cdu/>
-    <holding>
-      <ejem>
-        <mat>Book</mat>
-        <col>Legados</col>
-        <sig>BC RM F/</sig>
-        <des></des>
-      </ejem>
-      <ejem>
-        <mat>Book</mat>
-        <col>Legados</col>
-        <sig>BC RM F/3334</sig>
-        <des></des>
-      </ejem>
-    </holding>
-  </libro>
   <libro id="9917885999804201">
     <id>9917885999804201</id>
     <iep>21173467660004201</iep>
@@ -371,25 +303,6 @@
         <mat>Book</mat>
         <col>Series editoriales</col>
         <sig>80+82 LET 448</sig>
-        <des></des>
-      </ejem>
-    </holding>
-  </libro>
-  <libro id="9917884398904201">
-    <id>9917884398904201</id>
-    <iep>21172897420004201</iep>
-    <titulo>Aventuras de Don Quijote de la Mancha</titulo>
-    <autor></autor>
-    <lugar>Madrid :</lugar>
-    <editor>Despacho Sucesores de Hernando</editor>
-    <fecha>[19??].</fecha>
-    <isbn></isbn>
-    <cdu/>
-    <holding>
-      <ejem>
-        <mat>Book</mat>
-        <col>Legados</col>
-        <sig>BC RM P/329</sig>
         <des></des>
       </ejem>
     </holding>
@@ -457,27 +370,6 @@
       </ejem>
     </holding>
   </libro>
-  <libro id="9917887099104201">
-    <id>9917887099104201</id>
-    <iep>21173687510004201</iep>
-    <titulo>Butler and Hume on religion : a comparative analysis</titulo>
-    <autor>Jeffner, Anders.</autor>
-    <lugar>Stockholm :</lugar>
-    <editor>Diakonistyrelsens bokfölag</editor>
-    <fecha>cop. 1966.</fecha>
-    <isbn></isbn>
-    <cdu>
-      <num>1"15/17":27-2</num>
-    </cdu>
-    <holding>
-      <ejem>
-        <mat>Book</mat>
-        <col>Secciones temáticas</col>
-        <sig>1"15/17" JEFFNERA butleran</sig>
-        <des></des>
-      </ejem>
-    </holding>
-  </libro>
   <libro id="9917884094904201">
     <id>9917884094904201</id>
     <iep>21172875730004201</iep>
@@ -496,25 +388,6 @@
         <col>Secciones temáticas</col>
         <sig>811.14 cambridg</sig>
         <des></des>
-      </ejem>
-    </holding>
-  </libro>
-  <libro id="9917882296004201">
-    <id>9917882296004201</id>
-    <iep>21172546410004201</iep>
-    <titulo>Cantos populares españoles recogidos, ordenados e ilustrados</titulo>
-    <autor>Rodríguez Marín, Francisco (1855-1943).</autor>
-    <lugar>Sevilla :</lugar>
-    <editor>Francisco Alvarez y Cª</editor>
-    <fecha>[19??].</fecha>
-    <isbn></isbn>
-    <cdu/>
-    <holding>
-      <ejem>
-        <mat>Book</mat>
-        <col>Legados</col>
-        <sig>BC RM F/3340</sig>
-        <des>7 ejemplares</des>
       </ejem>
     </holding>
   </libro>
@@ -778,25 +651,6 @@
       </ejem>
     </holding>
   </libro>
-  <libro id="9917882495904201">
-    <id>9917882495904201</id>
-    <iep>21172526020004201</iep>
-    <titulo>Constituciones y exercicios de la Venerable Madre Sor María de la Antigua : según el método con que todos los viernes del año, en punto de la oracion, los practica, con singular edificacion de los fieles, y utilidad de las almas, su fervorosa Congregación establecida en la Iglesia (intra muros) del Castillo propio del... Duque de Median-Coeli y Alcala, &amp;c. en la ciudad y gran Puerto de Santa María.</titulo>
-    <autor>María de la Antigua 1566-1617</autor>
-    <lugar>Reimpreso en Ecija :</lugar>
-    <editor>en la imprenta de Benito Daza</editor>
-    <fecha>[s.a.].</fecha>
-    <isbn></isbn>
-    <cdu/>
-    <holding>
-      <ejem>
-        <mat>Book</mat>
-        <col>Legados</col>
-        <sig>BC RM F/3359</sig>
-        <des></des>
-      </ejem>
-    </holding>
-  </libro>
   <libro id="9917881604704201">
     <id>9917881604704201</id>
     <iep>21172389450004201</iep>
@@ -1055,27 +909,6 @@
       </ejem>
     </holding>
   </libro>
-  <libro id="9917882494904201">
-    <id>9917882494904201</id>
-    <iep>21172525690004201</iep>
-    <titulo>Die Anfänge des neuren Natur- und Völkerrechts : Studien zu den "Controversiae illustres" d. Fernandus Vasquius (1559)</titulo>
-    <autor>Reibstein, Ernst (1901-1966)</autor>
-    <lugar>Bern :</lugar>
-    <editor>Paul Haupt</editor>
-    <fecha>cop.1949.</fecha>
-    <isbn></isbn>
-    <cdu>
-      <num>341</num>
-    </cdu>
-    <holding>
-      <ejem>
-        <mat>Book</mat>
-        <col>SXX</col>
-        <sig>SXX/56750</sig>
-        <des></des>
-      </ejem>
-    </holding>
-  </libro>
   <libro id="9917881992804201">
     <id>9917881992804201</id>
     <iep>21172458590004201</iep>
@@ -1256,28 +1089,6 @@
       </ejem>
     </holding>
   </libro>
-  <libro id="990010330740204201">
-    <id>990010330740204201</id>
-    <iep>21109736130004201</iep>
-    <titulo>Difusión de las revistas españolas de ciencias sociales y humanidades : acercamiento bibliométrico: informe</titulo>
-    <autor>Osca Lluch, María Julia.</autor>
-    <lugar>Valencia :</lugar>
-    <editor>Instituto de Historia de la Ciencia y Documentación López Piñero</editor>
-    <fecha>D.L. 2002.</fecha>
-    <isbn>846880300</isbn>
-    <cdu>
-      <num>009(05):002.2(460)</num>
-      <num>3(05):002.2(460)</num>
-    </cdu>
-    <holding>
-      <ejem>
-        <mat>Book</mat>
-        <col>Monografías duplicadas</col>
-        <sig>DUP/78913</sig>
-        <des></des>
-      </ejem>
-    </holding>
-  </libro>
   <libro id="9917880296504201">
     <id>9917880296504201</id>
     <iep>21172026210004201</iep>
@@ -1348,27 +1159,6 @@
       </ejem>
     </holding>
   </libro>
-  <libro id="990016447690204201">
-    <id>990016447690204201</id>
-    <iep>21103158670004201</iep>
-    <titulo>EL Cerro del Real (Galera, Granada) : el corte estratigráfico IX</titulo>
-    <autor>Pellicer Catalán, Manuel</autor>
-    <lugar>[Madrid] :</lugar>
-    <editor>Ministerio de Educación Nacional Dirección General de Bellas Artes Servicio Nacional de Excavaciones Arqueológicas</editor>
-    <fecha>DL 1966.</fecha>
-    <isbn></isbn>
-    <cdu>
-      <num>904(468.151.3Galera)</num>
-    </cdu>
-    <holding>
-      <ejem>
-        <mat>Book</mat>
-        <col>Secciones temáticas</col>
-        <sig>902 PELLICER cerrodel</sig>
-        <des></des>
-      </ejem>
-    </holding>
-  </libro>
   <libro id="9917881998304201">
     <id>9917881998304201</id>
     <iep>21172457070004201</iep>
@@ -1386,27 +1176,6 @@
         <mat>Book</mat>
         <col>Series editoriales</col>
         <sig>81 TYP 118</sig>
-        <des></des>
-      </ejem>
-    </holding>
-  </libro>
-  <libro id="9917887194704201">
-    <id>9917887194704201</id>
-    <iep>21173726060004201</iep>
-    <titulo>El Museo del Louvre: : guía general</titulo>
-    <autor>Musée du Louvre.</autor>
-    <lugar>Paris :</lugar>
-    <editor>L'indispensable</editor>
-    <fecha>[19--?].</fecha>
-    <isbn></isbn>
-    <cdu>
-      <num>069(443.611)</num>
-    </cdu>
-    <holding>
-      <ejem>
-        <mat>Book</mat>
-        <col>SXX</col>
-        <sig>SXX/56761</sig>
         <des></des>
       </ejem>
     </holding>
@@ -1496,27 +1265,6 @@
       </ejem>
     </holding>
   </libro>
-  <libro id="9917887099804201">
-    <id>9917887099804201</id>
-    <iep>21173687790004201</iep>
-    <titulo>El juego y los deportes : enciclopedia de la recreación</titulo>
-    <autor></autor>
-    <lugar>Barcelona :</lugar>
-    <editor>Montaner y Simón</editor>
-    <fecha>D.L.1967.</fecha>
-    <isbn></isbn>
-    <cdu>
-      <num>796(03)</num>
-    </cdu>
-    <holding>
-      <ejem>
-        <mat>Book</mat>
-        <col>Secciones temáticas</col>
-        <sig>796/799 juegoylo</sig>
-        <des></des>
-      </ejem>
-    </holding>
-  </libro>
   <libro id="9917882498604201">
     <id>9917882498604201</id>
     <iep>21172527340004201</iep>
@@ -1580,27 +1328,6 @@
       </ejem>
     </holding>
   </libro>
-  <libro id="9917882495304201">
-    <id>9917882495304201</id>
-    <iep>21172525800004201</iep>
-    <titulo>Ensayos jurídicos y sociales</titulo>
-    <autor>García Redruello, Ramón.</autor>
-    <lugar>Madrid :</lugar>
-    <editor>Góngora</editor>
-    <fecha>[1927].</fecha>
-    <isbn></isbn>
-    <cdu>
-      <num>34</num>
-    </cdu>
-    <holding>
-      <ejem>
-        <mat>Book</mat>
-        <col>SXX</col>
-        <sig>SXX/56751</sig>
-        <des></des>
-      </ejem>
-    </holding>
-  </libro>
   <libro id="9917882095804201">
     <id>9917882095804201</id>
     <iep>21172496050004201</iep>
@@ -1639,48 +1366,6 @@
         <mat>Book</mat>
         <col>Secciones temáticas</col>
         <sig>27-3 escritos</sig>
-        <des></des>
-      </ejem>
-    </holding>
-  </libro>
-  <libro id="9917882495204201">
-    <id>9917882495204201</id>
-    <iep>21172525900004201</iep>
-    <titulo>Esempi di scrittura latina dell'età romana</titulo>
-    <autor>Ballaira, Guglielmo.</autor>
-    <lugar>Alessandria :</lugar>
-    <editor>Edizioni dell'Orso</editor>
-    <fecha>cop. 1993-.</fecha>
-    <isbn>8876941363; 9788876941368</isbn>
-    <cdu>
-      <num>930.271=124'02</num>
-    </cdu>
-    <holding>
-      <ejem>
-        <mat>Book</mat>
-        <col>Secciones temáticas</col>
-        <sig>930.27 BALLAIRA esempidi V.1</sig>
-        <des></des>
-      </ejem>
-    </holding>
-  </libro>
-  <libro id="9917883999304201">
-    <id>9917883999304201</id>
-    <iep>21172827510004201</iep>
-    <titulo>Estadística comparativa de la industria del gas en España durante los años 1957, 1958 y 1959.</titulo>
-    <autor>Sindicato Nacional de Agua, Gas y Electricidad (España)</autor>
-    <lugar>[Madrid],</lugar>
-    <editor></editor>
-    <fecha>D.L 1960.</fecha>
-    <isbn></isbn>
-    <cdu>
-      <num>55(091)</num>
-    </cdu>
-    <holding>
-      <ejem>
-        <mat>Pamphlet</mat>
-        <col>Folletos</col>
-        <sig>FOL/384876</sig>
         <des></des>
       </ejem>
     </holding>
@@ -1828,27 +1513,6 @@
         <mat>Book</mat>
         <col>Series editoriales</col>
         <sig>gen STU TES 490</sig>
-        <des></des>
-      </ejem>
-    </holding>
-  </libro>
-  <libro id="990015310240204201">
-    <id>990015310240204201</id>
-    <iep>21138549990004201</iep>
-    <titulo>Franklin Evans, el borracho</titulo>
-    <autor>Whitman, Walt (1819-1892)</autor>
-    <lugar>Madrid :</lugar>
-    <editor>Cátedra</editor>
-    <fecha>2012.</fecha>
-    <isbn>9788437629629; 8437629624</isbn>
-    <cdu>
-      <num>821.111(73)-31"19"</num>
-    </cdu>
-    <holding>
-      <ejem>
-        <mat>Book</mat>
-        <col>Monografías duplicadas</col>
-        <sig>DUP/78878</sig>
         <des></des>
       </ejem>
     </holding>
@@ -2288,27 +1952,6 @@
       </ejem>
     </holding>
   </libro>
-  <libro id="990007775500204201">
-    <id>990007775500204201</id>
-    <iep>21100617140004201</iep>
-    <titulo>Investment laws of the world : the developing nations</titulo>
-    <autor></autor>
-    <lugar>New York :</lugar>
-    <editor>Oceana</editor>
-    <fecha>cop. 1972.</fecha>
-    <isbn></isbn>
-    <cdu>
-      <num>339.727(094)</num>
-    </cdu>
-    <holding>
-      <ejem>
-        <mat>Book</mat>
-        <col>Secciones temáticas</col>
-        <sig>339 investme</sig>
-        <des></des>
-      </ejem>
-    </holding>
-  </libro>
   <libro id="9917881604104201">
     <id>9917881604104201</id>
     <iep>21172389270004201</iep>
@@ -2392,27 +2035,6 @@
         <mat>Book</mat>
         <col>Grandes formatos</col>
         <sig>GRA/58263</sig>
-        <des></des>
-      </ejem>
-    </holding>
-  </libro>
-  <libro id="9917887100204201">
-    <id>9917887100204201</id>
-    <iep>21173687950004201</iep>
-    <titulo>John Henry Newman</titulo>
-    <autor></autor>
-    <lugar>Milano :</lugar>
-    <editor>Vita e Pensiero</editor>
-    <fecha>cop. 1991.</fecha>
-    <isbn>8834348710; 9788834348710</isbn>
-    <cdu>
-      <num>929Newman, John Henry</num>
-    </cdu>
-    <holding>
-      <ejem>
-        <mat>Book</mat>
-        <col>Secciones temáticas</col>
-        <sig>929 johnhenr</sig>
         <des></des>
       </ejem>
     </holding>
@@ -2687,25 +2309,6 @@
       </ejem>
     </holding>
   </libro>
-  <libro id="9917882295804201">
-    <id>9917882295804201</id>
-    <iep>21172546360004201</iep>
-    <titulo>La inspiración de la biblia</titulo>
-    <autor>Hastings, Horace Lorenz</autor>
-    <lugar>Madrid [etc.] :</lugar>
-    <editor>Librería Nacional y Extranjera</editor>
-    <fecha>[1885?].</fecha>
-    <isbn></isbn>
-    <cdu/>
-    <holding>
-      <ejem>
-        <mat>Book</mat>
-        <col>Legados</col>
-        <sig>BC RM F/3341</sig>
-        <des></des>
-      </ejem>
-    </holding>
-  </libro>
   <libro id="9917887099404201">
     <id>9917887099404201</id>
     <iep>21173687630004201</iep>
@@ -2805,29 +2408,6 @@
         <mat>Book</mat>
         <col>Secciones temáticas</col>
         <sig>811.13 sabgiens</sig>
-        <des></des>
-      </ejem>
-    </holding>
-  </libro>
-  <libro id="9917882089404201">
-    <id>9917882089404201</id>
-    <iep>21172485730004201</iep>
-    <titulo>La stampa romana nella città dei papi e in Europa</titulo>
-    <autor></autor>
-    <lugar>Cittá dell Vaticano :</lugar>
-    <editor>Biblioteca apostolica vaticana</editor>
-    <fecha>2916.</fecha>
-    <isbn>9788821009709; 882100970X</isbn>
-    <cdu>
-      <num>75.056(456.31)(062.552)</num>
-      <num>769.1(456.31)(062.552)</num>
-      <num>655.533(456.31)(062.552)</num>
-    </cdu>
-    <holding>
-      <ejem>
-        <mat>Book</mat>
-        <col>Series editoriales</col>
-        <sig>gen STU TES 506</sig>
         <des></des>
       </ejem>
     </holding>
@@ -3124,27 +2704,6 @@
       </ejem>
     </holding>
   </libro>
-  <libro id="990011711660204201">
-    <id>990011711660204201</id>
-    <iep>21126200790004201</iep>
-    <titulo>Les marques des porcelaines faïences et poteries : Europe, Extrême-Orient</titulo>
-    <autor>Graesse, Jean George Théodore</autor>
-    <lugar>Paris :</lugar>
-    <editor>Editions de l'Amateur</editor>
-    <fecha>cop. 2001.</fecha>
-    <isbn>2859171924; 9782859171926</isbn>
-    <cdu>
-      <num>738.1</num>
-    </cdu>
-    <holding>
-      <ejem>
-        <mat>Book</mat>
-        <col>Monografías duplicadas</col>
-        <sig>DUP/78895</sig>
-        <des></des>
-      </ejem>
-    </holding>
-  </libro>
   <libro id="9917881604804201">
     <id>9917881604804201</id>
     <iep>21172389480004201</iep>
@@ -3235,27 +2794,6 @@
       </ejem>
     </holding>
   </libro>
-  <libro id="9917882797004201">
-    <id>9917882797004201</id>
-    <iep>21172576270004201</iep>
-    <titulo>Lisbon Expo 98 : projects</titulo>
-    <autor></autor>
-    <lugar>Lisboa :</lugar>
-    <editor>Editorial Blau</editor>
-    <fecha>cop. 1996.</fecha>
-    <isbn>9728311087; 9789728311087</isbn>
-    <cdu>
-      <num>7(06)(469)"1998"</num>
-    </cdu>
-    <holding>
-      <ejem>
-        <mat>Book</mat>
-        <col>Grandes formatos</col>
-        <sig>GRA/58244</sig>
-        <des></des>
-      </ejem>
-    </holding>
-  </libro>
   <libro id="9917883599904201">
     <id>9917883599904201</id>
     <iep>21172787840004201</iep>
@@ -3273,27 +2811,6 @@
         <mat>Book</mat>
         <col>Secciones temáticas</col>
         <sig>09 BIBLIOTE lopedeve</sig>
-        <des></des>
-      </ejem>
-    </holding>
-  </libro>
-  <libro id="9917887198804201">
-    <id>9917887198804201</id>
-    <iep>21173727380004201</iep>
-    <titulo>Los Tesoros de Turquía : las primeras civilizaciones de Anatolia, Bizancio, el periodo islámico</titulo>
-    <autor>Akurgal, Ekrem.</autor>
-    <lugar>Genève :</lugar>
-    <editor>Albert Skira</editor>
-    <fecha>cop. 1966.</fecha>
-    <isbn></isbn>
-    <cdu>
-      <num>7(560)</num>
-    </cdu>
-    <holding>
-      <ejem>
-        <mat>Book</mat>
-        <col>Monografías duplicadas</col>
-        <sig>DUPG/380</sig>
         <des></des>
       </ejem>
     </holding>
@@ -3913,46 +3430,6 @@
       </ejem>
     </holding>
   </libro>
-  <libro id="9917882496104201">
-    <id>9917882496104201</id>
-    <iep>21172526060004201</iep>
-    <titulo>Oración evangelica que en accion de gracias a Maria SS. N. Señora con el milagroso titulo de la Paz, con que se venera en la antigua, insigne parroquia de Santa Cruz de esta ciudad de Sevilla, por el milagro, que obró la señora con un devoto suyo, librandolo de un Maleficio, que havia padecido doze años, en que arrojó por la boca una Piedra de mas de una libra de peso, en señal de la expulsion de los Enemigos</titulo>
-    <autor>Zacarías, Domingo Máximo (CC. RR. MM.)</autor>
-    <lugar>En Sevilla :</lugar>
-    <editor>En la Imprenta de Caracteres de Antuerpia de la Universidad y Libreria de D Joseph Navarro y Armijo</editor>
-    <fecha>[s.a.].</fecha>
-    <isbn></isbn>
-    <cdu/>
-    <holding>
-      <ejem>
-        <mat>Book</mat>
-        <col>Legados</col>
-        <sig>BC RM F/3361</sig>
-        <des></des>
-      </ejem>
-    </holding>
-  </libro>
-  <libro id="9917887190704201">
-    <id>9917887190704201</id>
-    <iep>21173724170004201</iep>
-    <titulo>Oreficerie etrusche arcaiche</titulo>
-    <autor>Scarpignato, Marisa ‎</autor>
-    <lugar>Roma :</lugar>
-    <editor>"L'Erma" di Bretschneider</editor>
-    <fecha>cop. 1985.</fecha>
-    <isbn>8870625702; 9788870625707</isbn>
-    <cdu>
-      <num>739.2(375)</num>
-    </cdu>
-    <holding>
-      <ejem>
-        <mat>Book</mat>
-        <col>Secciones temáticas</col>
-        <sig>739 SCARPIGN oreficer</sig>
-        <des></des>
-      </ejem>
-    </holding>
-  </libro>
   <libro id="9917887188504201">
     <id>9917887188504201</id>
     <iep>21173723520004201</iep>
@@ -4183,25 +3660,6 @@
       </ejem>
     </holding>
   </libro>
-  <libro id="9917882492204201">
-    <id>9917882492204201</id>
-    <iep>21172524560004201</iep>
-    <titulo>Poesías laudatorias que, "a la antigua española" aparecieron en los preliminares del libro así titulado (1924)</titulo>
-    <autor></autor>
-    <lugar></lugar>
-    <editor></editor>
-    <fecha>[Posterior a 1924].</fecha>
-    <isbn></isbn>
-    <cdu/>
-    <holding>
-      <ejem>
-        <mat>Book</mat>
-        <col>Legados</col>
-        <sig>BC RM F/3363</sig>
-        <des></des>
-      </ejem>
-    </holding>
-  </libro>
   <libro id="9917882097404201">
     <id>9917882097404201</id>
     <iep>21172496260004201</iep>
@@ -4284,28 +3742,6 @@
         <mat>Book</mat>
         <col>Secciones temáticas</col>
         <sig>1"04/14"Raimundo Lu.0 raimundo</sig>
-        <des></des>
-      </ejem>
-    </holding>
-  </libro>
-  <libro id="990004708580204201">
-    <id>990004708580204201</id>
-    <iep>2198355210004201</iep>
-    <titulo>Refranes glosados : en los quales qualquier que con diligencia los quisiere leer hallará prouerbios y marauillosas sentencias y generalmente a todos muy prouechosos</titulo>
-    <autor></autor>
-    <lugar>[Madrid] :</lugar>
-    <editor>Sancho Rayón</editor>
-    <fecha>[ca. 1872].</fecha>
-    <isbn></isbn>
-    <cdu>
-      <num>398.9(460)</num>
-      <num>821.134.2-84(082.2)</num>
-    </cdu>
-    <holding>
-      <ejem>
-        <mat>Book</mat>
-        <col>Legados</col>
-        <sig>BC RM F/3364</sig>
         <des></des>
       </ejem>
     </holding>
@@ -4484,27 +3920,6 @@
         <mat>Book</mat>
         <col>Secciones temáticas</col>
         <sig>27-3 THOMSONR saintbas</sig>
-        <des></des>
-      </ejem>
-    </holding>
-  </libro>
-  <libro id="990011574440204201">
-    <id>990011574440204201</id>
-    <iep>21115436100004201</iep>
-    <titulo>Samaw’al al-Maghrib (d. 5701175) : Ifham al-yahud : the early recension</titulo>
-    <autor>Samawal b. Yahyà al-Magribi.</autor>
-    <lugar>Wiesbaden :</lugar>
-    <editor>Harrassowitz</editor>
-    <fecha>2006.</fecha>
-    <isbn>3447052848; 9783447052849</isbn>
-    <cdu>
-      <num>821.411.21 Samawal b. Yahyà al-Magribi</num>
-    </cdu>
-    <holding>
-      <ejem>
-        <mat>Book</mat>
-        <col>Monografías duplicadas</col>
-        <sig>DUP/78909</sig>
         <des></des>
       </ejem>
     </holding>
@@ -4743,27 +4158,6 @@
       </ejem>
     </holding>
   </libro>
-  <libro id="9917887100004201">
-    <id>9917887100004201</id>
-    <iep>21173687860004201</iep>
-    <titulo>Subasta numismática : en sala y por correo: a celebrar en Barcelona el martes 24 y miércoles 25 de octubre de 2000</titulo>
-    <autor>Aureo Subastas numismáticas.</autor>
-    <lugar>Barcelona :</lugar>
-    <editor>Aureo</editor>
-    <fecha>[2000].</fecha>
-    <isbn></isbn>
-    <cdu>
-      <num>737</num>
-    </cdu>
-    <holding>
-      <ejem>
-        <mat>Book</mat>
-        <col>Secciones temáticas</col>
-        <sig>930:737 AUREOSUB subastan</sig>
-        <des></des>
-      </ejem>
-    </holding>
-  </libro>
   <libro id="9917881998704201">
     <id>9917881998704201</id>
     <iep>21172457190004201</iep>
@@ -4889,28 +4283,6 @@
         <col>Grandes formatos</col>
         <sig>GRA/58265</sig>
         <des></des>
-      </ejem>
-    </holding>
-  </libro>
-  <libro id="990001396220204201">
-    <id>990001396220204201</id>
-    <iep>21112883030004201</iep>
-    <titulo>Teatro</titulo>
-    <autor>Metastasio, Pietro.</autor>
-    <lugar>Torino :</lugar>
-    <editor>Giulio Einaudi Editore</editor>
-    <fecha>cop. 1977.</fecha>
-    <isbn></isbn>
-    <cdu>
-      <num>850 Metastasio, Pietro</num>
-      <num>850-2"17"</num>
-    </cdu>
-    <holding>
-      <ejem>
-        <mat>Book</mat>
-        <col>Secciones temáticas</col>
-        <sig>821.13 Metastasio METASTAS teatro V.3</sig>
-        <des>Vol.3</des>
       </ejem>
     </holding>
   </libro>
@@ -5652,27 +5024,6 @@
       </ejem>
     </holding>
   </libro>
-  <libro id="9917882497104201">
-    <id>9917882497104201</id>
-    <iep>21172526640004201</iep>
-    <titulo>Thea Rōmē : the worship of the goddess Roma in the Greek world</titulo>
-    <autor>Mellor, Ronald.</autor>
-    <lugar>Göttingen :</lugar>
-    <editor>Vandenhoeck &amp; Ruprecht</editor>
-    <fecha>cop. 1975.</fecha>
-    <isbn>3525251386; 9783525251386</isbn>
-    <cdu>
-      <num>255</num>
-    </cdu>
-    <holding>
-      <ejem>
-        <mat>Book</mat>
-        <col>Series editoriales</col>
-        <sig>gen HYP 42</sig>
-        <des></des>
-      </ejem>
-    </holding>
-  </libro>
   <libro id="9917885999104201">
     <id>9917885999104201</id>
     <iep>21173467450004201</iep>
@@ -5810,6 +5161,27 @@
         <col>Secciones temáticas</col>
         <sig>62(091) tecnicae V. 9</sig>
         <des>Vol. 9</des>
+      </ejem>
+    </holding>
+  </libro>
+  <libro id="9917881992004201">
+    <id>9917881992004201</id>
+    <iep>21172458350004201</iep>
+    <titulo>Un livre de pharmacopée en syriaque</titulo>
+    <autor>Gignoux, Philippe</autor>
+    <lugar>Lovanii :</lugar>
+    <editor>Peeters</editor>
+    <fecha>1019.</fecha>
+    <isbn>9789042937413; 9042937416</isbn>
+    <cdu>
+      <num>61(091)</num>
+    </cdu>
+    <holding>
+      <ejem>
+        <mat>Book</mat>
+        <col>Secciones temáticas</col>
+        <sig>61(091) GIGNOUXP livredep</sig>
+        <des></des>
       </ejem>
     </holding>
   </libro>
