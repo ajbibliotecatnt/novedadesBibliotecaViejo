@@ -27,77 +27,71 @@
         menu.addEventListener("click", mostrarResultados, false);
     });
 
+    fetch("./datos/datos.xml" , {cache: "no-store"}).then((results) => {results.text().then(( str ) => {datos = str})});
+
     function mostrarResultados(e) {
-    if (e.target !== e.currentTarget) {
+    if (e.target !== e.currentTarget && e.target.id !=='') {
+        console.log(e.target.id);
         let mat = e.target.id;
         resultados.innerHTML = '';
-        fetch("./datos/datos.xml")
-        .then((results) => {results.text()
-        .then(( str ) => {
-            console.log("cargo los libros");
-            let responseDoc = new DOMParser().parseFromString(str, 'application/xml');
 
-            var nodos = responseDoc.evaluate( `//cdu[starts-with(num,"${mat}")]/ancestor::libro | 
+        let responseDoc = new DOMParser().parseFromString(datos, 'application/xml');
+
+        var nodos = responseDoc.evaluate( `//cdu[starts-with(num,"${mat}")]/ancestor::libro | 
                                                //cdu[contains(num,":${mat}")]/ancestor::libro    `, 
-            responseDoc, null, XPathResult.ANY_TYPE, null );
+                                                responseDoc, null, XPathResult.ANY_TYPE, null );
             
-            const libros = [];
-            let libro = nodos.iterateNext();
-            while (libro) {
-                iep = libro.getElementsByTagName('iep').item(0).innerHTML;
-                titulo = libro.getElementsByTagName('titulo').item(0).innerHTML;
-                autor = libro.getElementsByTagName('autor').item(0).innerHTML;
-                if(autor !== '') {
-                    autorU = encodeURI(autor)
-                    autor = `<b>Autor: </b>${autor} <a href=${autorP}${autorU}${autorF} target="_blank">(+)</a>`
-                }
-                lugar = libro.getElementsByTagName('lugar').item(0).innerHTML;
-                editor = libro.getElementsByTagName('editor').item(0).innerHTML;
-                fecha = libro.getElementsByTagName('fecha').item(0).innerHTML;
-                isbn = libro.getElementsByTagName('isbn').item(0).innerHTML;
-                isbn = isbn.split(';')[0]
-                if (isbn == '') {
-                    isbn = "9781111111111"
-                }
-                var ejem = [];
-                var ej = libro.getElementsByTagName('ejem');
-                var ej = Array.from(ej);
-                ej.map(function(e) { 
-                    signatura = e.getElementsByTagName('sig').item(0).innerHTML;
-                    descripcion = e.getElementsByTagName('des').item(0).innerHTML;
-                    coleccion = e.getElementsByTagName('col').item(0).innerHTML;
+        const libros = [];
+        let libro = nodos.iterateNext();
+        while (libro) {
+            iep = libro.getElementsByTagName('iep').item(0).innerHTML;
+            titulo = libro.getElementsByTagName('titulo').item(0).innerHTML;
+            autor = libro.getElementsByTagName('autor').item(0).innerHTML;
+            if(autor !== '') {
+                autorU = encodeURI(autor)
+                autor = `<b>Autor: </b>${autor} <a href=${autorP}${autorU}${autorF} target="_blank">(+)</a>`
+            }
+            lugar = libro.getElementsByTagName('lugar').item(0).innerHTML;
+            editor = libro.getElementsByTagName('editor').item(0).innerHTML;
+            fecha = libro.getElementsByTagName('fecha').item(0).innerHTML;
+            isbn = libro.getElementsByTagName('isbn').item(0).innerHTML;
+            isbn = isbn.split(';')[0]
+            if (isbn == '') {
+                isbn = "9781111111111"
+            }
+            var ejem = [];
+            var ej = libro.getElementsByTagName('ejem');
+            var ej = Array.from(ej);
+            ej.map(function(e) { 
+                signatura = e.getElementsByTagName('sig').item(0).innerHTML;
+                descripcion = e.getElementsByTagName('des').item(0).innerHTML;
+                coleccion = e.getElementsByTagName('col').item(0).innerHTML;
 
-                    ejem.push([signatura, descripcion, coleccion]); 
-                });
+                ejem.push([signatura, descripcion, coleccion]); 
+            });
                  
-                var l = new Libro(iep, titulo, autor, lugar, editor, fecha, isbn, ejem );
-                libros.push(l);
-                libro = nodos.iterateNext();
-            }
-            if(typeof libros !== 'undefined' && libros.length > 0) {
-                var htmlContent = '';
-                htmlContent = '<ul>' + libros.map(libro => 
-                                `<li class="article">
-                                    <img src="${portadas}${libro.isbn}" width="80" height="110">
-                                      <h2>
-                                        <a href=${url}${libro.iep}${context} target="_blank">${libro.titulo}</a></h2>
-                                        <p>${libro.autor}</p>
-                                        <p><b>Edición: </b>${libro.lugar} ${libro.editor}, ${libro.fecha}</p>
-                                            <ul>`+ libro.ejemplar.map(eje =>
-                                            `<li><p><b>${eje[2]}</b> | <b>${eje[0]}</b> | <b>${eje[1]}</b></p></li>`).join('')+
-                                            '</ul>'+'</li>').join('')+'</ul>';
-            } else {
-                var htmlContent = '';
-                htmlContent = '<div class="mensaje">Ningún libro adquirido sobre esa materia en este mes</div>';
-            }
-            resultados.insertAdjacentHTML('beforeend', htmlContent);
-
-            })
-
-        });
-            
+            var l = new Libro(iep, titulo, autor, lugar, editor, fecha, isbn, ejem );
+            libros.push(l);
+            libro = nodos.iterateNext();
+        }
+        if(typeof libros !== 'undefined' && libros.length > 0) {
+            var htmlContent = '';
+            htmlContent = '<ul>' + libros.map(libro => 
+                            `<li class="article">
+                                <img src="${portadas}${libro.isbn}" width="80" height="110">
+                                  <h2>
+                                    <a href=${url}${libro.iep}${context} target="_blank">${libro.titulo}</a></h2>
+                                    <p>${libro.autor}</p>
+                                    <p><b>Edición: </b>${libro.lugar} ${libro.editor}, ${libro.fecha}</p>
+                                        <ul>`+ libro.ejemplar.map(eje =>
+                                        `<li><p><b>${eje[2]}</b> | <b>${eje[0]}</b> | <b>${eje[1]}</b></p></li>`).join('')+
+                                        '</ul>'+'</li>').join('')+'</ul>';
+        } else {
+            var htmlContent = '';
+            htmlContent = '<div class="mensaje">Ningún libro adquirido sobre esa materia en este mes</div>';
+        }
+        resultados.insertAdjacentHTML('beforeend', htmlContent);       
+        }
+     e.stopPropagation();
     }
-    e.stopPropagation();
-    }
-
- })();
+})();
