@@ -14,7 +14,6 @@
     fetch('./datos/materias.json')
     .then(response => response.json())
     .then(materias => {
-        console.log("cargo el menu");
         let htmlNav = ""
         htmlNav = '<div class="topnav" id="myTopnav">' + materias.map(materia => 
                     `<div class="dropdown"><button class="dropbtn">${materia.no}<i class="fa fa-caret-down"></i></button>
@@ -31,7 +30,6 @@
 
     function mostrarResultados(e) {
     if (e.target !== e.currentTarget && e.target.id !=='') {
-        console.log(e.target.id);
         let mat = e.target.id;
         resultados.innerHTML = '';
 
