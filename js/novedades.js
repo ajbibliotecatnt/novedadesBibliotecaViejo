@@ -18,7 +18,7 @@
         htmlNav = '<div class="topnav" id="myTopnav">' + materias.map(materia => 
                     `<div class="dropdown"><button class="dropbtn">${materia.no}<i class="fa fa-caret-down"></i></button>
                         <div class="dropdown-content">` + materia.sub.map(sub =>
-                            `<a id="${sub.nu}" href="#">${sub.no}</a>`).join('')+
+                            `<a id="${sub.nu}" name="${sub.co}" href="#">${sub.no}</a>`).join('')+
                         '</div></div>'
                     ).join('')+'<a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a></div>';
 
@@ -29,13 +29,14 @@
     fetch("./datos/datos.xml" , {cache: "no-store"}).then((results) => {results.text().then(( str ) => {datos = str})});
 
     function mostrarResultados(e) {
-    if (e.target !== e.currentTarget && e.target.id !=='') {
+    if (e.target !== e.currentTarget && e.target.id !=='' && e.target.id !=='myTopnav') {
         let mat = e.target.id;
+        let co = e.target.name;
         resultados.innerHTML = '';
 
         let responseDoc = new DOMParser().parseFromString(datos, 'application/xml');
 
-        var nodos = responseDoc.evaluate( `//cdu[starts-with(num,"${mat}")]/ancestor::libro | 
+        var nodos = responseDoc.evaluate( `//cdu[${co}(num,"${mat}")]/ancestor::libro |  
                                                //cdu[contains(num,":${mat}")]/ancestor::libro    `, 
                                                 responseDoc, null, XPathResult.ANY_TYPE, null );
             
