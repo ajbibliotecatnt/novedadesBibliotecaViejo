@@ -14,7 +14,7 @@
     fetch('./datos/materias.json')
     .then(response => response.json())
     .then(materias => {
-        let htmlNav = ""
+        htmlNav = ""
         htmlNav = '<div class="topnav" id="myTopnav">' + materias.map(materia => 
                     `<div class="dropdown"><button class="dropbtn">${materia.no}<i class="fa fa-caret-down"></i></button>
                         <div class="dropdown-content">` + materia.sub.map(sub =>
@@ -30,6 +30,9 @@
 
     function mostrarResultados(e) {
     if (e.target !== e.currentTarget && e.target.id !=='' && e.target.id !=='myTopnav') {
+
+		menu.innerHTML = '';
+		menu.insertAdjacentHTML('afterbegin', htmlNav);
         let mat = e.target.id;
         let co = e.target.name;
         resultados.innerHTML = '';
