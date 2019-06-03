@@ -39,8 +39,8 @@
 
         let responseDoc = new DOMParser().parseFromString(datos, 'application/xml');
 
-        var nodos = responseDoc.evaluate( `//cdu[${co}(num,"${mat}")]/ancestor::libro |  
-                                               //cdu[contains(num,":${mat}")]/ancestor::libro    `, 
+        var nodos = responseDoc.evaluate( `//num[${co}(.,"${mat}")]/ancestor::libro |  
+                                               //num[contains(.,":${mat}")]/ancestor::libro    `, 
                                                 responseDoc, null, XPathResult.ANY_TYPE, null );
             
         const libros = [];
