@@ -35,6 +35,8 @@
 		menu.insertAdjacentHTML('afterbegin', htmlNav);
         let mat = e.target.id;
         let co = e.target.name;
+        const mes = datos.getAtributte('mes');
+        console.log(mes);
         resultados.innerHTML = '';
 
         let responseDoc = new DOMParser().parseFromString(datos, 'application/xml');
